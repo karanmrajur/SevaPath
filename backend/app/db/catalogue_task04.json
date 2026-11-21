@@ -1,0 +1,1357 @@
+[
+  {
+    "slug": "pm-kisan",
+    "name": "PM-KISAN Samman Nidhi",
+    "category": "Farmers",
+    "subcategory": "Income support",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://pmkisan.gov.in/?open_in_new_tab=true",
+        "title": "PM-KISAN official portal",
+        "kind": "government_portal",
+        "checked": true
+      },
+      {
+        "url": "https://pmkisan.gov.in/Documents/FAQPMKISAN.pdf",
+        "title": "PM-KISAN eligibility FAQs",
+        "kind": "government_publication",
+        "checked": false
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "PM-KISAN provides income support to eligible landholding farmer families through direct transfers, subject to scheme exclusions.",
+      "benefits": [
+        "The portal describes ₹6,000 per year in three instalments for eligible families."
+      ],
+      "eligibility_guidance": [
+        "Landholding farmer family criteria and government exclusions apply. Confirm the applicable record and exclusions through the official portal."
+      ],
+      "procedure": [
+        "Use the official Farmers Corner for new farmer registration and eKYC. Check the beneficiary status after registration."
+      ],
+      "official_information_url": "https://pmkisan.gov.in/?open_in_new_tab=true",
+      "official_application_url": "https://pmkisan.gov.in/?open_in_new_tab=true",
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [
+      {
+        "name": "Aadhaar for eKYC",
+        "category": "Identity proof",
+        "status": "required",
+        "source": 0
+      }
+    ],
+    "rules": [
+      {
+        "field": "landholding",
+        "operator": "eq",
+        "expected_value": true,
+        "explanation": "The scheme applies to eligible landholding farmer families.",
+        "source": 0
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "slug": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Farmers",
+    "subcategory": "Crop insurance",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://pmfby.gov.in/pdf/Revised_Operational_Guidelines.pdf?trk=public_post_comment-text",
+        "title": "PMFBY revised operational guidelines",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://www.pmfby.gov.in/",
+        "title": "Official PMFBY portal",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "PMFBY offers crop insurance for farmers growing notified crops in notified areas, including eligible tenant farmers and sharecroppers.",
+      "benefits": [
+        "Insurance protection is tied to the notified crop, area and applicable season."
+      ],
+      "eligibility_guidance": [
+        "Verify whether the crop and area are notified and whether you can show insurable interest in the crop."
+      ],
+      "procedure": [
+        "Check the applicable notification and use the official crop insurance portal or an authorized enrolment channel."
+      ],
+      "official_information_url": "https://www.pmfby.gov.in/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [
+      {
+        "name": "Proof of land possession, lease or other state-accepted farming rights",
+        "category": "Land record",
+        "status": "required",
+        "source": 0
+      },
+      {
+        "name": "Sowing certificate or self-declaration of intent to sow",
+        "category": null,
+        "status": "required",
+        "source": 0
+      },
+      {
+        "name": "Bank passbook copy",
+        "category": "Bank records",
+        "status": "required",
+        "source": 0
+      },
+      {
+        "name": "Aadhaar or enrolment ID if seeding or eKYC is incomplete",
+        "category": "Identity proof",
+        "status": "conditional",
+        "source": 0
+      }
+    ],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "kisan-credit-card",
+    "name": "Kisan Credit Card (KCC)",
+    "category": "Farmers",
+    "subcategory": "Agricultural credit",
+    "state": null,
+    "department": "Department of Financial Services",
+    "sources": [
+      {
+        "url": "https://sbi.co.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+        "title": "State Bank of India Kisan Credit Card",
+        "kind": "government_portal",
+        "checked": true
+      },
+      {
+        "url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/CRB5100512KC.pdf",
+        "title": "Reserve Bank of India KCC guidelines",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "KCC is a bank credit facility that supports crop cultivation and related agricultural needs. Lending decisions and documentation are handled by the participating bank.",
+      "benefits": [
+        "Provides access to revolving farm credit subject to the lender’s sanctioned limit."
+      ],
+      "eligibility_guidance": [
+        "Participating lenders publish criteria for owner-cultivators and other qualifying borrower groups."
+      ],
+      "procedure": [
+        "Review the participating bank’s KCC instructions and approach the branch or its online channel."
+      ],
+      "official_information_url": "https://sbi.co.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "pm-kusum",
+    "name": "PM-KUSUM Scheme",
+    "category": "Farmers",
+    "subcategory": "Solar energy",
+    "state": null,
+    "department": "Ministry of New and Renewable Energy",
+    "sources": [
+      {
+        "url": "https://pmkusum.mnre.gov.in/",
+        "title": "National Portal for PM-KUSUM",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "PM-KUSUM supports decentralized solar generation, standalone solar agricultural pumps and solarisation of existing agricultural pumps through distinct components.",
+      "benefits": [
+        "Supports agricultural solar power and pumping through component-specific arrangements."
+      ],
+      "eligibility_guidance": [
+        "Eligible applicants depend on the component and state implementation agency. Check its current notice."
+      ],
+      "procedure": [
+        "Use the national portal to identify your state implementing agency and the relevant component."
+      ],
+      "official_information_url": "https://pmkusum.mnre.gov.in/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "pmksy",
+    "name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "category": "Farmers",
+    "subcategory": "Irrigation",
+    "state": null,
+    "department": "Ministry of Jal Shakti",
+    "sources": [
+      {
+        "url": "https://pmksy.mowr.gov.in/pmksy.html",
+        "title": "PMKSY programme overview",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "PMKSY is an umbrella irrigation and water-management programme that aims to expand access to irrigation and improve water-use efficiency.",
+      "benefits": [
+        "Its components support irrigation infrastructure and improved water management."
+      ],
+      "eligibility_guidance": [
+        "Access is component- and location-specific. The central programme listing does not establish individual eligibility."
+      ],
+      "procedure": [
+        "Identify the relevant component and check the state implementing department’s process."
+      ],
+      "official_information_url": "https://pmksy.mowr.gov.in/pmksy.html",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "smam",
+    "name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+    "category": "Farmers",
+    "subcategory": "Farm mechanization",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://agrimachinery.nic.in/Files/Guidelines/Guidelines_SMAM2024.pdf",
+        "title": "SMAM operational guidelines",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://agrimachinery.nic.in/",
+        "title": "Digital Platform for Farm Mechanization and Technology",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "SMAM supports access to farm machinery and custom hiring, including in areas and among groups with low mechanization coverage.",
+      "benefits": [
+        "Assistance varies by approved machinery, component, applicant category and state allocation."
+      ],
+      "eligibility_guidance": [
+        "Verify the component and state target before purchasing equipment."
+      ],
+      "procedure": [
+        "Check availability and the assistance calculator on the official Digital Platform for Farm Mechanization and Technology."
+      ],
+      "official_information_url": "https://agrimachinery.nic.in/Files/Guidelines/Guidelines_SMAM2024.pdf",
+      "official_application_url": "https://agrimachinery.nic.in/",
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "pkvy",
+    "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+    "category": "Farmers",
+    "subcategory": "Organic farming",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2099756&lang=2&reg=48",
+        "title": "PIB programme explanation",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "PKVY promotes cluster-based organic farming, including organic inputs, participatory certification and marketing support.",
+      "benefits": [
+        "Eligible clusters may receive support for organic conversion and market development under programme guidelines."
+      ],
+      "eligibility_guidance": [
+        "Participation operates through approved clusters and state programme implementation."
+      ],
+      "procedure": [
+        "Contact the state agriculture department to check cluster participation."
+      ],
+      "official_information_url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2099756&lang=2&reg=48",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "soil-health-card",
+    "name": "Soil Health Card Scheme",
+    "category": "Farmers",
+    "subcategory": "Soil testing",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://s3af5d5ef24881f3c3049a7b9bfe74d58b.s3waas.gov.in/project/soil-health-card-portal/",
+        "title": "NIC Soil Health Card Portal project",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "The Soil Health Card initiative uses soil testing to provide nutrient information and fertilizer recommendations for agricultural land.",
+      "benefits": [
+        "A card can help farmers make better-informed nutrient and fertilizer decisions."
+      ],
+      "eligibility_guidance": [],
+      "procedure": [
+        "Ask the local agriculture office about soil sampling and card access."
+      ],
+      "official_information_url": "https://s3af5d5ef24881f3c3049a7b9bfe74d58b.s3waas.gov.in/project/soil-health-card-portal/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "10000-fpos",
+    "name": "Formation and Promotion of 10,000 FPOs",
+    "category": "Farmers",
+    "subcategory": "Farmer producer organisations",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://sfacindia.com/UploadFile/Statistics/Formation%20%26%20Promotion%20of%2010%2C000%20FPOs%20Scheme%20Operational%20Guidelines%20in%20English.pdf",
+        "title": "SFAC operational guidelines",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "This programme helps form and develop Farmer Producer Organisations through designated implementing agencies and cluster-based business organisations.",
+      "benefits": [
+        "Guidelines provide for organisation development, handholding and specified forms of financial support."
+      ],
+      "eligibility_guidance": [
+        "Support is structured around eligible producer organisations and implementing agencies."
+      ],
+      "procedure": [
+        "Consult the designated implementing agency or local cluster-based business organisation about participation."
+      ],
+      "official_information_url": "https://sfacindia.com/UploadFile/Statistics/Formation%20%26%20Promotion%20of%2010%2C000%20FPOs%20Scheme%20Operational%20Guidelines%20in%20English.pdf",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "national-beekeeping-honey-mission",
+    "name": "National Beekeeping and Honey Mission",
+    "category": "Farmers",
+    "subcategory": "Beekeeping",
+    "state": null,
+    "department": "Department of Agriculture and Farmers Welfare",
+    "sources": [
+      {
+        "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025112682601.pdf",
+        "title": "PIB National Beekeeping and Honey Mission brief",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "The National Beekeeping and Honey Mission supports scientific beekeeping and the honey value chain, including post-harvest infrastructure and research.",
+      "benefits": [
+        "Support is organised through mission components and eligible proposals."
+      ],
+      "eligibility_guidance": [],
+      "procedure": [
+        "Check the implementing agency’s current call for the relevant mission component."
+      ],
+      "official_information_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc2025112682601.pdf",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "krishi-bhagya",
+    "name": "Krishi Bhagya Scheme",
+    "category": "Farmers",
+    "subcategory": "Rainfed farming",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Agriculture",
+    "sources": [
+      {
+        "url": "https://bangalorerural.nic.in/en/agriculture/",
+        "title": "Bengaluru Rural Agriculture Department",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Krishi Bhagya focuses on rainwater harvesting and water management for rainfed agriculture in Karnataka.",
+      "benefits": [
+        "Programme descriptions include farm ponds and related measures to conserve and use rainwater."
+      ],
+      "eligibility_guidance": [
+        "Check the district and current programme components before planning work."
+      ],
+      "procedure": [
+        "Ask the local agriculture department whether the programme is available in your area."
+      ],
+      "official_information_url": "https://bangalorerural.nic.in/en/agriculture/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "ganga-kalyana",
+    "name": "Ganga Kalyana Scheme",
+    "category": "Farmers",
+    "subcategory": "Groundwater irrigation",
+    "state": "Karnataka",
+    "department": "Karnataka development corporations",
+    "sources": [
+      {
+        "url": "https://tumkur.nic.in/en/scheme/ganga-kalyana-scheme-g-k-s/",
+        "title": "Tumakuru district Ganga Kalyana information",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Ganga Kalyana provides groundwater irrigation support through borewells or tube wells for eligible individual or group beneficiaries.",
+      "benefits": [
+        "Eligible projects may receive irrigation infrastructure support."
+      ],
+      "eligibility_guidance": [
+        "Eligibility depends on the administering development corporation and its current applicant criteria."
+      ],
+      "procedure": [
+        "Identify the development corporation applicable to your category and check its current notification."
+      ],
+      "official_information_url": "https://tumkur.nic.in/en/scheme/ganga-kalyana-scheme-g-k-s/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "pashu-bhagya",
+    "name": "Pashu Bhagya Scheme",
+    "category": "Farmers",
+    "subcategory": "Animal husbandry",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Animal Husbandry and Veterinary Services",
+    "sources": [
+      {
+        "url": "https://gadag.nic.in/en/scheme/pashu-bhagya/",
+        "title": "Gadag district Pashu Bhagya overview",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Pashu Bhagya is a Karnataka animal husbandry programme described by Gadag District for establishing livestock units and supporting their maintenance.",
+      "benefits": [
+        "The district description includes bank-linked subsidy and short-term maintenance credit."
+      ],
+      "eligibility_guidance": [
+        "Verify current assistance and farmer-category requirements with the department and participating bank."
+      ],
+      "procedure": [
+        "Ask the district animal husbandry office about the relevant livestock activity and application window."
+      ],
+      "official_information_url": "https://gadag.nic.in/en/scheme/pashu-bhagya/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "karnataka-farm-mechanization",
+    "name": "Farm Mechanization Subsidy – Karnataka",
+    "category": "Farmers",
+    "subcategory": "Farm equipment assistance",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Agriculture",
+    "sources": [
+      {
+        "url": "https://bangalorerural.nic.in/en/agriculture/",
+        "title": "Bengaluru Rural district agriculture department",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Karnataka’s district agriculture department lists farm mechanization assistance among its programmes.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Confirm eligible machinery, applicant category and the current district allocation."
+      ],
+      "procedure": [
+        "Check the Karnataka district agriculture office for the application route before purchasing equipment."
+      ],
+      "official_information_url": "https://bangalorerural.nic.in/en/agriculture/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "karnataka-micro-irrigation",
+    "name": "Micro Irrigation Subsidy – Karnataka",
+    "category": "Farmers",
+    "subcategory": "Micro irrigation",
+    "state": "Karnataka",
+    "department": "Karnataka horticulture and agriculture departments",
+    "sources": [
+      {
+        "url": "https://bengalurusouth.nic.in/en/horticulture-department/",
+        "title": "Bengaluru South Horticulture Department",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Karnataka district horticulture programme information includes micro-irrigation support. Eligible systems and assistance depend on local implementation.",
+      "benefits": [
+        "Participation may help eligible cultivators adopt efficient irrigation systems, subject to current rules."
+      ],
+      "eligibility_guidance": [],
+      "procedure": [
+        "Ask the district horticulture office to confirm the eligible crop, system and current application process."
+      ],
+      "official_information_url": "https://bengalurusouth.nic.in/en/horticulture-department/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "ssp-post-matric-scholarship",
+    "name": "SSP Post-Matric Scholarship",
+    "category": "Students",
+    "subcategory": "Post-matric scholarships",
+    "state": "Karnataka",
+    "department": "Karnataka State Scholarship Portal participating departments",
+    "sources": [
+      {
+        "url": "https://dtek.karnataka.gov.in/storage/pdf-files/ACM/SSp%20portal301019.pdf",
+        "title": "Karnataka technical education SSP eligibility and document guidance",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://ssp.postmatric.karnataka.gov.in/",
+        "title": "Karnataka State Scholarship Portal (post-matric)",
+        "kind": "government_portal",
+        "checked": false
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Karnataka’s State Scholarship Portal provides a common application route for post-matric scholarships administered by different departments.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Requirements vary by sponsoring department and award. Check the SSP notice for your course and category."
+      ],
+      "procedure": [
+        "Open SSP, choose the relevant department scheme, and follow its document e-attestation instructions where applicable."
+      ],
+      "official_information_url": "https://dtek.karnataka.gov.in/storage/pdf-files/ACM/SSp%20portal301019.pdf",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": "The published SSP guidance listed separate document and eligibility conditions for different sponsoring departments."
+    },
+    "documents": [
+      {
+        "name": "Income certificate when required by the department",
+        "category": "Income certificate",
+        "status": "conditional",
+        "source": 0
+      },
+      {
+        "name": "Caste certificate when required by the department",
+        "category": "Caste certificate",
+        "status": "conditional",
+        "source": 0
+      },
+      {
+        "name": "Previous-year marks card for applicable awards",
+        "category": "Education marksheet",
+        "status": "conditional",
+        "source": 0
+      }
+    ],
+    "rules": [],
+    "dependencies": [
+      {
+        "slug": "income-certificate",
+        "condition": "Obtain or renew the income certificate if the selected SSP award requires income documentation.",
+        "source": 0
+      }
+    ]
+  },
+  {
+    "slug": "vidyasiri",
+    "name": "Vidyasiri Scholarship",
+    "category": "Students",
+    "subcategory": "Food and accommodation assistance",
+    "state": "Karnataka",
+    "department": "Karnataka Backward Classes Welfare Department",
+    "sources": [
+      {
+        "url": "https://dtek.karnataka.gov.in/storage/pdf-files/ACM/SSp%20portal301019.pdf",
+        "title": "Karnataka SSP guidance including Vidyasiri",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://ssp.postmatric.karnataka.gov.in/",
+        "title": "Karnataka State Scholarship Portal (post-matric)",
+        "kind": "government_portal",
+        "checked": false
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Vidyasiri provides food and accommodation assistance for qualifying Karnataka students under the applicable departmental programme.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Check the sponsoring department’s notice for study level, residential arrangements and other conditions."
+      ],
+      "procedure": [
+        "Review the department notice and use SSP where the notice directs applicants there."
+      ],
+      "official_information_url": "https://dtek.karnataka.gov.in/storage/pdf-files/ACM/SSp%20portal301019.pdf",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [
+      {
+        "name": "Income certificate where the current Vidyasiri notice requires it",
+        "category": "Income certificate",
+        "status": "conditional",
+        "source": 0
+      },
+      {
+        "name": "Caste or category certificate for applicable applicants",
+        "category": "Caste certificate",
+        "status": "conditional",
+        "source": 0
+      }
+    ],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "yuva-nidhi",
+    "name": "Yuva Nidhi Scheme",
+    "category": "Students",
+    "subcategory": "Graduate unemployment assistance",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Skill Development, Entrepreneurship and Livelihood",
+    "sources": [
+      {
+        "url": "https://fpibengaluru.karnataka.gov.in/uploads/media_to_upload1762775113.pdf",
+        "title": "Karnataka Fiscal Policy Institute Yuva Nidhi scheme summary",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+        "title": "Karnataka Seva Sindhu",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Yuva Nidhi is a Karnataka unemployment assistance programme for eligible graduates and diploma holders.",
+      "benefits": [
+        "The published assessment describes monthly support of ₹3,000 for graduates and ₹1,500 for diploma holders, for up to two years or until employment."
+      ],
+      "eligibility_guidance": [
+        "Cohort, education, residence and unemployment conditions depend on the current notification."
+      ],
+      "procedure": [
+        "Find the current Yuva Nidhi notice and designated registration channel through Seva Sindhu."
+      ],
+      "official_information_url": "https://fpibengaluru.karnataka.gov.in/uploads/media_to_upload1762775113.pdf",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": "The published first-phase assessment covers the 2022–23 cohort and describes at least 180 days of unemployment and Karnataka domicile. See the current notice for later cohorts."
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "scholarships",
+    "name": "National Scholarship Portal Scholarships",
+    "category": "Students",
+    "subcategory": "Scholarship portal",
+    "state": null,
+    "department": null,
+    "sources": [
+      {
+        "url": "https://scholarships.gov.in/",
+        "title": "National Scholarship Portal",
+        "kind": "government_portal",
+        "checked": true
+      },
+      {
+        "url": "https://dom.karnataka.gov.in/storage/pdf-files/Scholarships%20Latest%20News/Procedure%20to%20Apply-PRE%2C%20PMS%20%26%20MCM%202022-23.pdf",
+        "title": "Karnataka Directorate of Minorities NSP 2022–23 application timeline",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "The National Scholarship Portal brings together scholarships from multiple authorities and provides application and tracking services.",
+      "benefits": [
+        "The portal lets students discover and manage applications. Awards and benefits vary by scholarship."
+      ],
+      "eligibility_guidance": [
+        "Open a specific scholarship to see its own eligibility and document conditions. The portal itself has no universal eligibility test."
+      ],
+      "procedure": [
+        "Review scheme guidelines on the portal and complete the current registration process before applying to a specific scholarship."
+      ],
+      "official_information_url": "https://scholarships.gov.in/",
+      "official_application_url": "https://scholarships.gov.in/",
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": "In 2022–23 the Directorate of Minorities listed 31 October 2022 as the deadline for the Post-Matric and Merit-cum-Means entries in its NSP notice.",
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "gruha-lakshmi",
+    "name": "Gruha Lakshmi Scheme",
+    "category": "Women Empowerment",
+    "subcategory": "Household financial support",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Women and Child Development",
+    "sources": [
+      {
+        "url": "https://fpibengaluru.karnataka.gov.in/uploads/media_to_upload1762775086.pdf",
+        "title": "Karnataka Fiscal Policy Institute scheme assessment",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+        "title": "Karnataka Seva Sindhu",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Gruha Lakshmi is a Karnataka household financial assistance programme administered through state channels, with published criteria tied to the head of the household.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "The state assessment describes the ration-card head-of-family requirement and tax-related exclusions. Confirm the current instructions."
+      ],
+      "procedure": [
+        "Check the current Gruha Lakshmi service or status instructions through Seva Sindhu."
+      ],
+      "official_information_url": "https://fpibengaluru.karnataka.gov.in/uploads/media_to_upload1762775086.pdf",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [
+      {
+        "name": "Applicable household ration card",
+        "category": "Ration card",
+        "status": "required",
+        "source": 0
+      }
+    ],
+    "rules": [
+      {
+        "field": "gruha_lakshmi_household_head",
+        "operator": "eq",
+        "expected_value": true,
+        "explanation": "Published Gruha Lakshmi criteria require a woman listed as the head of the household on an applicable ration card.",
+        "source": 0
+      }
+    ],
+    "dependencies": [
+      {
+        "slug": "ration-card",
+        "condition": "Review the household ration card because the published Gruha Lakshmi criteria use ration-card records.",
+        "source": 0
+      }
+    ]
+  },
+  {
+    "slug": "udyogini",
+    "name": "Udyogini Scheme",
+    "category": "Women Empowerment",
+    "subcategory": "Self-employment",
+    "state": "Karnataka",
+    "department": "Karnataka State Women Development Corporation",
+    "sources": [
+      {
+        "url": "https://bangalorerural.nic.in/en/karnataka-state-women-development-corporation/",
+        "title": "Bengaluru Rural district Women Development Corporation programme information",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Udyogini supports qualifying women pursuing income-generating activities through a bank-linked programme administered by the Karnataka State Women Development Corporation.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Confirm current age, income, activity and applicant category criteria in the administering office’s notice."
+      ],
+      "procedure": [
+        "Contact the district corporation office about applications and participating banks."
+      ],
+      "official_information_url": "https://bangalorerural.nic.in/en/karnataka-state-women-development-corporation/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "stree-shakti",
+    "name": "Stree Shakti Self-Help Group Scheme",
+    "category": "Women Empowerment",
+    "subcategory": "Self-help groups",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Women and Child Development",
+    "sources": [
+      {
+        "url": "https://kodagu.nic.in/en/women-and-child-development-department/",
+        "title": "Kodagu district Women and Child Development programmes",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Stree Shakti supports women’s self-help groups in Karnataka as a platform for collective savings, economic activity and support.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Check local self-help group formation and participation requirements."
+      ],
+      "procedure": [
+        "Contact the district Women and Child Development office or local programme office."
+      ],
+      "official_information_url": "https://kodagu.nic.in/en/women-and-child-development-department/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "bhagyalakshmi",
+    "name": "Bhagyalakshmi Scheme",
+    "category": "Women Empowerment",
+    "subcategory": "Girl-child welfare",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Women and Child Development",
+    "sources": [
+      {
+        "url": "https://gadag.nic.in/en/scheme/bhagyalaxmi/",
+        "title": "Gadag district Bhagyalaxmi scheme information",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "The Bhagyalakshmi scheme described by Gadag District supports eligible girls in below-poverty-line households in Karnataka.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Confirm the current cohort, household requirements and enrolment process with the department before relying on the historical district listing."
+      ],
+      "procedure": [
+        "Check the current state or district women and child development office notice."
+      ],
+      "official_information_url": "https://gadag.nic.in/en/scheme/bhagyalaxmi/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": "The district scheme information describes eligibility for girls from BPL households."
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "ignoaps",
+    "name": "Indira Gandhi National Old Age Pension Scheme",
+    "category": "Pension",
+    "subcategory": "Old-age pension",
+    "state": null,
+    "department": "Ministry of Rural Development",
+    "sources": [
+      {
+        "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+        "title": "Government of Nagaland NSAP programme and eligibility",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "IGNOAPS is the old-age pension component of the National Social Assistance Programme.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "The published programme criteria cover people aged 60 or older in qualifying below-poverty-line households. State top-ups and procedures can differ."
+      ],
+      "procedure": [
+        "Contact the relevant local authority or state social welfare department for the application process."
+      ],
+      "official_information_url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [
+      {
+        "field": "age",
+        "operator": "gte",
+        "expected_value": 60,
+        "explanation": "The published minimum age is 60.",
+        "source": 0
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "slug": "ignwps",
+    "name": "Widow Pension Scheme",
+    "category": "Pension",
+    "subcategory": "Widow pension",
+    "state": null,
+    "department": "Ministry of Rural Development",
+    "sources": [
+      {
+        "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+        "title": "Government of Nagaland NSAP programme and eligibility",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "This entry refers to the Indira Gandhi National Widow Pension Scheme under NSAP. States may have additional widow pension programmes.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "The published source describes eligible widows from qualifying below-poverty-line households aged 40 or older. Check state implementation."
+      ],
+      "procedure": [
+        "Ask the local or state social welfare authority how to apply."
+      ],
+      "official_information_url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [
+      {
+        "field": "age",
+        "operator": "gte",
+        "expected_value": 40,
+        "explanation": "The cited NSAP programme summary lists a minimum age of 40.",
+        "source": 0
+      }
+    ],
+    "dependencies": []
+  },
+  {
+    "slug": "igndps",
+    "name": "Disability Pension Scheme",
+    "category": "Pension",
+    "subcategory": "Disability pension",
+    "state": null,
+    "department": "Ministry of Rural Development",
+    "sources": [
+      {
+        "url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+        "title": "Government of Nagaland NSAP programme and eligibility",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "This entry refers to the Indira Gandhi National Disability Pension Scheme under NSAP, with separate state-specific programmes possible.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "The programme applies to eligible people from below-poverty-line households who meet the prescribed age and severe or multiple disability criteria."
+      ],
+      "procedure": [
+        "Confirm requirements and apply through the applicable local or state social welfare authority."
+      ],
+      "official_information_url": "https://dsw.nagaland.gov.in/about-the-national-social-assistance-programme-nsap/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "ration-card",
+    "name": "Ration Card",
+    "category": "Other Citizen Services",
+    "subcategory": "Food and civil supplies",
+    "state": "Karnataka",
+    "department": "Karnataka Department of Food, Civil Supplies and Consumer Affairs",
+    "sources": [
+      {
+        "url": "https://nfsa.gov.in/State/KA",
+        "title": "National Food Security portal Karnataka resources",
+        "kind": "government_portal",
+        "checked": true
+      },
+      {
+        "url": "https://www.ahara.karnataka.gov.in/",
+        "title": "Karnataka food department portal",
+        "kind": "government_portal",
+        "checked": false
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Karnataka ration-card services cover household records used by the public distribution system. The national NFSA Karnataka page points citizens to state resources.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Eligibility and supporting documents depend on the household category and requested transaction."
+      ],
+      "procedure": [
+        "Use the state food department channel listed on the official Karnataka NFSA page."
+      ],
+      "official_information_url": "https://nfsa.gov.in/State/KA",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "driving-licence",
+    "name": "Driving Licence",
+    "category": "Transport",
+    "subcategory": "Road transport",
+    "state": null,
+    "department": "Ministry of Road Transport and Highways",
+    "sources": [
+      {
+        "url": "https://transport.delhi.gov.in/transport/permanent-driving-licence",
+        "title": "Delhi Transport Department permanent licence guidance",
+        "kind": "government_portal",
+        "checked": true
+      },
+      {
+        "url": "https://sarathi.parivahan.gov.in/sarathiservice/",
+        "title": "Sarathi national driving-licence portal",
+        "kind": "government_portal",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Driving licences are issued by state licensing authorities under the national motor vehicles framework. Select the relevant state and vehicle class for the application.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "The relevant learner’s licence and applicable class, age and testing conditions must be checked."
+      ],
+      "procedure": [
+        "Choose your state on the Sarathi portal and follow the licensing authority’s instructions for a permanent driving licence."
+      ],
+      "official_information_url": "https://transport.delhi.gov.in/transport/permanent-driving-licence",
+      "official_application_url": "https://sarathi.parivahan.gov.in/sarathiservice/",
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [
+      {
+        "name": "Valid learner’s licence for the relevant class",
+        "category": "Learner licence",
+        "status": "required",
+        "source": 0
+      }
+    ],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "income-certificate",
+    "name": "Income Certificate",
+    "category": "Certificates",
+    "subcategory": "Income certification",
+    "state": "Karnataka",
+    "department": "Karnataka Revenue Department",
+    "sources": [
+      {
+        "url": "https://tumkur.nic.in/en/service/apply-for-income-certificate/",
+        "title": "Tumakuru district income certificate instructions",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "Karnataka’s Revenue Department issues an income certificate following an application and verification by the competent officials.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "Check the district service instructions for accepted supporting evidence and any case-specific documents."
+      ],
+      "procedure": [
+        "Apply online or visit the designated office. Retain the acknowledgement and follow the application status and certificate instructions."
+      ],
+      "official_information_url": "https://tumkur.nic.in/en/service/apply-for-income-certificate/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [
+      {
+        "name": "Proof of age",
+        "category": null,
+        "status": "required",
+        "source": 0
+      },
+      {
+        "name": "Proof of address",
+        "category": "Address proof",
+        "status": "required",
+        "source": 0
+      },
+      {
+        "name": "Proof of identity",
+        "category": "Identity proof",
+        "status": "required",
+        "source": 0
+      },
+      {
+        "name": "Caste certificate for the category where required",
+        "category": "Caste certificate",
+        "status": "conditional",
+        "source": 0
+      }
+    ],
+    "rules": [],
+    "dependencies": []
+  },
+  {
+    "slug": "caste-income-certificate",
+    "name": "Caste & Income Certificate",
+    "category": "Certificates",
+    "subcategory": "Combined caste and income certification",
+    "state": "Karnataka",
+    "department": "Karnataka Revenue Department",
+    "sources": [
+      {
+        "url": "https://belagavi.nic.in/en/service/residence-certificate/",
+        "title": "Belagavi district certificate service instructions",
+        "kind": "government_publication",
+        "checked": true
+      },
+      {
+        "url": "https://vijayapura.nic.in/en/service/certificates-ajsk/",
+        "title": "Vijayapura district certificate overview",
+        "kind": "government_publication",
+        "checked": true
+      }
+    ],
+    "details": {
+      "origin": "task04_user_list",
+      "overview": "This Karnataka Revenue Department service provides a combined caste and income certificate for applicable purposes. It is distinct from a stand-alone caste certificate.",
+      "benefits": [],
+      "eligibility_guidance": [
+        "The certificate form and accepting authority depend on the applicant category and purpose."
+      ],
+      "procedure": [
+        "Follow the district’s instructions or visit the relevant Tehsil or Tahsildar office."
+      ],
+      "official_information_url": "https://belagavi.nic.in/en/service/residence-certificate/",
+      "official_application_url": null,
+      "application_opens": null,
+      "application_deadline": null,
+      "application_status": null,
+      "previous_application_period": null,
+      "previous_eligibility": null
+    },
+    "documents": [],
+    "rules": [],
+    "dependencies": []
+  }
+]

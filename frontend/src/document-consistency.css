@@ -1,0 +1,12 @@
+.consistency-card dd, .consistency-counts dd { margin: .35rem 0 0; overflow-wrap: anywhere; }
+.consistency-card dl, .consistency-counts { margin: 0; }
+.consistency-counts > div { padding: .65rem .8rem; border: 1px solid var(--border, #dce4ec); border-radius: .45rem; }
+.consistency-counts dd { font-weight: 700; font-size: 1.125rem; }
+.consistency-card dd.metadata { line-height: 1.5; }
+.consistency-mismatch { border-color: #b23a36; }
+.consistency-alert { color: #8e2524; font-weight: 700; }
+.consistency-alert svg { display: inline; vertical-align: text-bottom; }
+.consistency-card details summary { cursor: pointer; }
+.consistency-review-status { color: #783b03; font-weight: 700; }
+.consistency-name-value { font-size: 1.4rem; line-height: 1.65; }
+.consistency-name-change { background: #fee2e2; color: #842120; border-bottom: 2px solid #a12c29; }

@@ -1,0 +1,28 @@
+{
+  "directory-1a1cacfeacbacb6db29d": {
+    "latitude": 13.00458628,
+    "longitude": 77.58009256,
+    "confidence": "official_site",
+    "source": "https://site.bbmp.gov.in/PDF/Election/North1/157-Malleshwaram%20LAC.pdf"
+  },
+  "directory-5219e8940be8aa61fed4": {
+    "latitude": 12.92147317,
+    "longitude": 77.58499157,
+    "confidence": "official_site",
+    "source": "https://site.bbmp.gov.in/PDF/Election/South1/AC_173_Jayanagar.pdf",
+    "pin": "560011"
+  },
+  "directory-f015bd8e8ba18285dac9": {
+    "latitude": 12.99025,
+    "longitude": 77.53589,
+    "confidence": "matched_site",
+    "source": "https://www.openstreetmap.org/way/404739433",
+    "pin": "560079"
+  },
+  "directory-fd83cb59c9e898445247": {
+    "latitude": 12.9136474,
+    "longitude": 77.6377482,
+    "confidence": "matched_site",
+    "source": "https://www.openstreetmap.org/node/1279246451"
+  }
+}

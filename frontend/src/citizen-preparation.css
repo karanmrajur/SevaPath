@@ -1,0 +1,21 @@
+.preparation-tree {
+  border-inline-start: 2px solid var(--color-line, #d6e0ec);
+  list-style: none;
+  margin-block: .75rem;
+  padding-inline-start: 1rem;
+}
+
+.preparation-tree li {
+  margin-block: .6rem;
+  overflow-wrap: anywhere;
+}
+
+.preparation-tree details[open] > summary {
+  font-weight: 650;
+}
+
+#local-preparation,
+#document-reviews,
+#action-plan {
+  scroll-margin-top: 6rem;
+}

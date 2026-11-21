@@ -1,0 +1,27 @@
+.auth-page { background: #fff; }
+.auth-page > .utility-bar { border-bottom: 1px solid var(--line); }
+.auth-main { display: grid; place-items: center; padding: clamp(24px, 3.5vw, 42px) var(--gutter); min-width: 0; }
+.auth-layout { width: min(100%, 29rem); display: grid; justify-items: center; gap: 18px; }
+.auth-card { width: 100%; display: grid; gap: 20px; padding: clamp(20px, 4vw, 36px); border-color: #dce5f1; box-shadow: 0 4px 24px #1735680d; }
+.auth-heading { text-align: center; display: grid; justify-items: center; gap: 8px; }
+.auth-heading .brand { margin-bottom: 4px; }
+.auth-heading h1 { font-size: clamp(1.8rem, 5vw, 2.25rem); }
+.auth-heading p { font-size: .9375rem; }
+.auth-notice { font-size: .875rem; padding: 10px 12px; }
+.auth-notice p { color: #344966; }
+.auth-form, .auth-field { display: grid; gap: 14px; min-width: 0; }
+.auth-field { gap: 5px; }
+.auth-password { position: relative; min-width: 0; }
+.auth-password input { padding-inline-end: 50px; }
+.auth-password-toggle { position: absolute; inset: 1px 1px 1px auto; width: 42px; display: grid; place-items: center; border-radius: 6px; color: var(--color-navy); }
+.auth-password-toggle:hover { background: var(--primary-soft); }
+.auth-password-toggle:focus-visible { outline-offset: -3px; }
+.auth-error { color: #9b2626; font-size: .875rem; }
+.auth-field input[aria-invalid="true"] { border-color: #a93131; }
+.auth-hint { font-size: .8125rem; }
+.auth-options { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 16px; }
+.auth-remember { display: flex; align-items: center; gap: 8px; min-height: 32px; cursor: pointer; }
+.auth-submit { width: 100%; min-height: 46px; }
+.auth-status { border-left: 3px solid var(--color-primary-blue); background: #f0f5fb; padding: 8px 11px; font-size: .875rem; color: var(--color-navy); }
+.auth-switch { border-top: 1px solid var(--line); padding-top: 14px; text-align: center; font-size: .875rem; color: var(--muted); }
+.auth-back { min-height: 32px; display: inline-flex; align-items: center; }

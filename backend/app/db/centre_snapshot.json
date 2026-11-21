@@ -1,0 +1,5154 @@
+{
+  "Bone,null,null": [
+    {
+      "id": "directory-94e10ae265ff6ca67579",
+      "name": "Bangalore One · R.T Nagar",
+      "address": "BDA Shopping Complex, R.T.Nagar, Bangalore-560032",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "R.T Nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560032",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1916d2a0f01ad6c4c6ac",
+      "name": "Bangalore One · RMV 2nd Stage",
+      "address": "BEL Road, BDA CA Site, RMV 2nd Stage, Bangalore-560054",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "RMV 2nd Stage",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560054",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b6fc8bbffb6ff9a79db3",
+      "name": "Bangalore One · Vijayanagar Mini",
+      "address": "BDA Shopping Complex, Vijaynagar, Bangalore-560040",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vijayanagar Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560040",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-ed06e7504fa73f3ee1db",
+      "name": "Bangalore One · Banashankari",
+      "address": "BDA Shopping Complex, 2nd Stage, Banashankari, Bangalore-560070",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Banashankari",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560070",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6f684eb6912710ca3a57",
+      "name": "Bangalore One · Austin Town",
+      "address": "BDA Shopping Complex, Austin Town, Bangalore-560047",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Austin Town",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560047",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-16ed99eecf30cf5e3190",
+      "name": "Bangalore One · Koramangala",
+      "address": "BDA Shopping Complex, 3rd Block, Koramangala, Bangalore-560034",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Koramangala",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560034",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e01e0ba10252c88b62c4",
+      "name": "Bangalore One · Sadashivanagar",
+      "address": "BDA COMPLEX, Mini Market, 9th Main, 1st Cross, Sadashivanagar, Bangalore-560080",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Sadashivanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560080",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f66327e37cb9f6c2c1e7",
+      "name": "Bangalore One · Basaveshwaranagar",
+      "address": "Opp Chord Road Hospital, Basaveshwarnagar, Bangalore-560079",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Basaveshwaranagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560079",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-674cdf526cb954e40da3",
+      "name": "Bangalore One · Nandini Layout",
+      "address": "Opposite to KEB & BSNL Office Nandini Layout, Bangalore-560096",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Nandini Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560096",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a3f20d72b8b4fee75607",
+      "name": "Bangalore One · Banashankari",
+      "address": "BDA Park, Anjaneyanagar,HBCS Layout, BSK 3rd Stage, Bangalore-560085",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Banashankari",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560085",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-3504ae9eb837871afd2c",
+      "name": "Bangalore One · Kumaraswamy layout",
+      "address": "BDA Site Bhooth In Between 19th & 20th Cross, Kumarswamy Layout, Bangalore-560078",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kumaraswamy layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560078",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-3f2b137c2ed93d066fd7",
+      "name": "Bangalore One · Rajajinagar",
+      "address": "BDA Site Bhooth, Near ISKON Temple, Rajajinagar 1st Block, Bangalore-560010",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Rajajinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560010",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2a5fa922cdeca4a7f2a4",
+      "name": "Bangalore One · Kengeri",
+      "address": "BDA Site Bhooth, Satellite Town, Kengeri, Bangalore-560060",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kengeri",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560060",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c503de364efe9a566d30",
+      "name": "Bangalore One · J.P. Nagar",
+      "address": "RV Dental College Premises, 2nd Phase, 1st Main, J.P.Nagar, Bangalore-560078",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "J.P. Nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560078",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4b50a64a64450b6ec743",
+      "name": "Bangalore One · Aicobanagar",
+      "address": "Near Petrol bunk, Bank Officer Colony, BTM 2nd Stage, Aicobanagar, Bangalore-560076",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Aicobanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560076",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-73ee5565a0bc9a444680",
+      "name": "Bangalore One · Airport Road",
+      "address": "S-7 Sub Division, Bescom, Airport Road, Bangalore-560017",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Airport Road",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560017",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-11a38fa2ca4213c45220",
+      "name": "Bangalore One · Banashankari",
+      "address": "BDA Shopping Complex,1st Floor, 2nd Stage, Bangalore-560070",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Banashankari",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560070",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d7b1597cc58e5eff81f6",
+      "name": "Bangalore One · HBR layout",
+      "address": "BDA Shopping Complex,1st Floor, 1st Stage, 2nd Block, Bangalore-560084",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "HBR layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560084",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-540ab47a910d35212ae1",
+      "name": "Bangalore One · Jayanagar",
+      "address": "BBMP Office, 9th Cross, 9th Main, 2nd Block, Bangalore-560011",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jayanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560011",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-57c0269e4f002d54c958",
+      "name": "Bangalore One · JP Nagar",
+      "address": "S6, Subdivision, 14th Cross,1st Phase, BESCOM Building, Bangalore-560078",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "JP Nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560078",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1ef8b63c78a04d5d4545",
+      "name": "Bangalore One · Kalasipalyam",
+      "address": "BSNL Office, AM Road, Kalasipalyam, Bangalore-560002",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kalasipalyam",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560002",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-28079fd07733197cf841",
+      "name": "Bangalore One · Malleshwaram",
+      "address": "BWSSB Building, Next to Ammani College,18 th cross,Bangalore-560003",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Malleshwaram",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560003",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-7ff4294eca73d74913c9",
+      "name": "Bangalore One · Nagarbhavi",
+      "address": "BDA Shopping complex,1st Floor,2nd stage,3rd block,Bangalore-560072",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Nagarbhavi",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560072",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5bbe9a4a3b5b09e9de07",
+      "name": "Bangalore One · Koramangala",
+      "address": "NGV,near by passport office,Koramangala,Bangalore-560095",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Koramangala",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560095",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-723563c4d986ba83c835",
+      "name": "Bangalore One · MS Building",
+      "address": "Room nno 07,Basement,5th stage,MS building,Bangalore-560001",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "MS Building",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560001",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-cf8982efb98428611e25",
+      "name": "Bangalore One · Rajajinagar",
+      "address": "410,BMP complex, 1st floor Next to RTO building,2nd block,Bangalore-560010",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Rajajinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560010",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-638c5b5330de77350813",
+      "name": "Bangalore One · R T Nagar",
+      "address": "City cental library,East Zone,1st main Road,Bangalore-560032",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "R T Nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560032",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-373e913233cdcb9cc4a3",
+      "name": "Bangalore One · Shanthi nagar",
+      "address": "Divyashree Chambers,shanthi nagar,Bangalore-560025",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Shanthi nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560025",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-611a03e28c5ef5d29e1c",
+      "name": "Bangalore One · Srirampuram",
+      "address": "Ward no 4, behind Srirampuram police station,Bangalore-560021",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Srirampuram",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560021",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-7b0182dc9dbfb7bfb11d",
+      "name": "Bangalore One · Tannery Road",
+      "address": "E1 subdivision,#1,BESCOM Building,9th main ,3rd stage,pillana Garden,Bangalore-560045",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Tannery Road",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560045",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-623c8990750744d994b2",
+      "name": "Bangalore One · Vijayanagar",
+      "address": "BDA shoping complex,MIRCR (Magado road cord road),Bangalore-560040",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vijayanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560040",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-009ea2aa40919019c944",
+      "name": "Bangalore One · Yeshwanthpur",
+      "address": "RTO complex,,1st floor,Market Road,Bangalore-560022",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Yeshwanthpur",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560022",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b790236804b5157563fa",
+      "name": "Bangalore One · Indiranagar",
+      "address": "BBMP Building Near Girls High school Murphy Town halasur 560008",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Indiranagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560008",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8e890bec0a6dd7dd541b",
+      "name": "Bangalore One · Infosys",
+      "address": "No 33 Manjunath Layout, Naganathpura Opp Bosh company , Bangalore -560100.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Infosys",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560100",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-cd8f574762236c4e0cd0",
+      "name": "Bangalore One · Elcia",
+      "address": "Electronics City Industries Association, Sy.No.7(P), Electronic City - West Phase, Hosur Road, Bangalore - 100",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Elcia",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-786306dad296a7177305",
+      "name": "Bangalore One · Vidyaranyapura",
+      "address": "BEL, Residents Welfare Association Office, Behind Old Post Office, 5th Block, BEL Layout, Vidyaranyapura, Bangalore - 560 097.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vidyaranyapura",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f2439d745407f5ff0a4a",
+      "name": "Bangalore One · Laggere",
+      "address": "No.56, Opp to D.M.Public School, Rajeshwarinagar, Laggere, Bangalore-58",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Laggere",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1a264962c90a9ee38b76",
+      "name": "Bangalore One · Rajiv Gandhi Circle, Laggere",
+      "address": "NO 41 near kalikamba temple Rajeev gandhi Circle Leggere main Road Bangalore -58",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Rajiv Gandhi Circle, Laggere",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2e7bc084a3a7ff73ffc8",
+      "name": "Bangalore One · Kodigehalli",
+      "address": "No 48 6 th Cross Telcom layout.Opp Sri ram appt Kodigehalli Bangalore-97",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kodigehalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-699a44c6916b141a3a65",
+      "name": "Bangalore One · Nelegadarenahalli",
+      "address": "Site NO 2 Sr no 21/2 SLR Complex Nelegedaranahalli Main Road Bangalore-73",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Nelegadarenahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-cb5cc506f8ba0101c459",
+      "name": "Bangalore One · Vishwanath Nagenahalli",
+      "address": "No.46, Shiva Sai Complex, Vishwanath Nagenahalli Circle, Opp Church, Bangalore-32",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vishwanath Nagenahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c09735243edd2e821e4a",
+      "name": "Bangalore One · Rajarajeshwarinagar",
+      "address": "BMTC bus depo, No.21, BEML, 5th Phase, Rajarajeshwarinagar, Bangalore-58",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Rajarajeshwarinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5eebf0d58ef8a71a59a9",
+      "name": "Bangalore One · Hanumathnagar",
+      "address": "No.759, 7th Cross, Ramanjaneya Road, Hanumanthnagar, Bangalore- 94",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Hanumathnagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d35e336e83f6dcc68e27",
+      "name": "Bangalore One · Yelahanka New Town",
+      "address": "1st Floor, Opp Vijaya Bank, KHB Shopping Complex, Yelahanka New Town, Bangalore -64.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Yelahanka New Town",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-fd83cb59c9e898445247",
+      "name": "Bangalore One · HSR Layout",
+      "address": "HSR BDA Shopping Complex, HSR Layout, Bangalore - 34",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "HSR Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e38c15eb244e7c66a9e6",
+      "name": "Bangalore One · HRBR",
+      "address": "BDA Kalyan Nagar, Behind BDA Ward Office, 9th Main, 1st Block, Bangalore-43",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "HRBR",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-21b7d3ecc5aacf31d2e5",
+      "name": "Bangalore One · Rajajinagar",
+      "address": "Rajajinagar 4th Block, Near masjid, 3rd Main, 44th Cross, Rajajinagar, Bangalore-10",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Rajajinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f015bd8e8ba18285dac9",
+      "name": "Bangalore One · Basaveshwaranagar",
+      "address": "Baniyandree park, 1st cross, 3rd Stage, 4th Block, Basaveshwaranagar, Bangalore-79",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Basaveshwaranagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a613d219ca71dbb04250",
+      "name": "Bangalore One · Basaveshwaranagar",
+      "address": "Gayathri Housing Society (LIC Colony) Old Sub Registrar Office, West of Chord Road, Basaveshwaranagar, Bangalore - 560 079",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Basaveshwaranagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1bf3b5074ccf319d2353",
+      "name": "Bangalore One · HSR Layout (Parangipalya)",
+      "address": "BBMP Helpline Centre, HSR 1st sector, 24th Main Road, HSR Layout, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "HSR Layout (Parangipalya)",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-86d182cfe0c6ef1df34f",
+      "name": "Bangalore One · Arkere",
+      "address": "Office of the Deputy commissioner (Revenue), BBMP, Arkere Mico layout (Near Bus Stand), Bangalore.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Arkere",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-7945bf618ccf823b9d3a",
+      "name": "Bangalore One · Jayanagar",
+      "address": "BBMP Helpline Centre, Next to ESI Hospital Ward No. 169, 30th Cross, Bhairasandra, Opp. Usha Appartments (Near Hopcoms), Jayanagar 4th Block, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jayanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-aed3885dc1c4fd2e1963",
+      "name": "Bangalore One · Mahadevapura",
+      "address": "BBMP Complex, Opp to Singayyanapalya Bus Stop, Mahadevapura, Bangalore -48",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Mahadevapura",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2975cdee5ac39137a395",
+      "name": "Bangalore One · S K Garden",
+      "address": "BBMP Ward No 61,# 79, 7th Main, ITI Layout, Benson Town Post, SK Garden, Bangalore -46",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "S K Garden",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5219e8940be8aa61fed4",
+      "name": "Bangalore One · Jayanagar",
+      "address": "BBMP Helpline Centre, 38th Cross, 10th Main Road (Near Hopcoms), Jayanagar 5th Block, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jayanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-048a07ed0fd1faf9629f",
+      "name": "Bangalore One · City Civil Court",
+      "address": "City Civil Court, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "City Civil Court",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b66e789ffbe6b1b24866",
+      "name": "Bangalore One · Chandra Layout",
+      "address": "BBMP Help Center, Ward No.128, BBMP Park, Gangondana Halli Main Road, Chandra layout, Bangalore.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Chandra Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-dd47e536c892bf87a4d1",
+      "name": "Bangalore One · Library Building Rajajinagar 1st Block",
+      "address": "LIBRARY Building, Ground floor, Behind Vidhya Vardhaka High school, Rajajinagar 1st Block, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Library Building Rajajinagar 1st Block",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5bc1554a5aa2514e5ae9",
+      "name": "Bangalore One · Gandhinagar BBMP Help Centre",
+      "address": "BBMP Help Center, Ward No.94, BBMP Park, Gandhinagar, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Gandhinagar BBMP Help Centre",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b743b1c14ecfbc5f34e1",
+      "name": "Bangalore One · Magadi Road BBMP Building",
+      "address": "Ward No. 121, BBMP Office, 4th cross, Magadi Road, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Magadi Road BBMP Building",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c13e8731d61cdfea6f0c",
+      "name": "Bangalore One · Binny Mill BBMP Help centre",
+      "address": "BBMP Help Center, Ward No.120, Binny Mill Road, Next to Binny Mills, BBMP Garden, Cottonpet, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Binny Mill BBMP Help centre",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-64e7505b4c50b790b2fb",
+      "name": "Bangalore One · Jayanagar, 4 'T' Block",
+      "address": "BBMP Ward Office, Ground Floor, 34th Cross, 28th Main Road, Jayanagar, 4th 'T' Block, Bangalore.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jayanagar, 4 'T' Block",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d0a2949076a130d644a5",
+      "name": "Bangalore One · J.P.Nagar, Mini Forest",
+      "address": "BBMP Help Centre, 9th Cross, 3rd Phase, 80 Feet Road, Mini Forest, (Near HOPCOMS), J.P. Nagar, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "J.P.Nagar, Mini Forest",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e636fc646c755ece12a1",
+      "name": "Bangalore One · Kavalbaira sandra",
+      "address": "BBMP Help Center, Ward No. 47, Near Kaval Baira sandra Bus Stop, Kavalbairasandra, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kavalbaira sandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-61ab3a604c0b87543e38",
+      "name": "Bangalore One · LR Bande",
+      "address": "BBMP Help Center, Ward No. 32, L R Bande BDA Park, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "LR Bande",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-58cc671fb9195a6d9a09",
+      "name": "Bangalore One · Library Building Hains Road",
+      "address": "Ward No 78, Next to Library (BBMP) Hains Road, Near Kolts Park, Fraser Town, Bangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Library Building Hains Road",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-29c4ea0bab6b91df0362",
+      "name": "Bangalore One · Gurappanapalya",
+      "address": "Ward no 171, BBMP Building, Behind Hopcoms,,7th 'A' main road,GurappanaPalya, BTM 1st StageBangalore",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Gurappanapalya",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-60326f164419f9662266",
+      "name": "Bangalore One · Avalahalli/Girinagar",
+      "address": "BBMP Help Centre, Ward No. 158, Deepanjali Nagar Ward, BDA Park, Avalahalli Main Road, Bangalore - 560085",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Avalahalli/Girinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560085",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-fc4fa50e6aa3dda6f0e4",
+      "name": "Bangalore One · Chamarajpet",
+      "address": "Malemahadeshwara Information Building, Vartha Bhavan, Tippu Sultan Palace Road, Opp. Mintos Hospital, Chamarajpet, Bangalore - 560018",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Chamarajpet",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560018",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-20f61ef421c07e20cc7b",
+      "name": "Bangalore One · Yelahanka Old Town",
+      "address": "Ward No 1, New BBMP Building Yelahanka Old Town, Bangalore -560064",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Yelahanka Old Town",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560064",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1a1cacfeacbacb6db29d",
+      "name": "Bangalore One · Vyalikaval Center",
+      "address": "BBMP Building ,8th Cross Lower Palace Orchards, Vyalikaval Tank Ground, Sadhashivnagar, Bangalore- 560003.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vyalikaval Center",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560003",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9ad80991367f1a33bcbe",
+      "name": "Bangalore One · Malleswaram Center",
+      "address": "BBMP Building , Seva Kendra M K K Road, 5th Main Road, Malleswaram , Next to ICICI Bank, Bangalore- 560003.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Malleswaram Center",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560003",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f2c910f53cd783f696ac",
+      "name": "Bangalore One · Jaladarshini Center",
+      "address": "BBMP Building, 2nd Cross, Jaladarshini Layout, Aramanenagar ward no.35, Near Chethana Boys Hostel, Opp. Maruthi Apartment, Bangalore -560054.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jaladarshini Center",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560054",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f2a47df09a558a05b2df",
+      "name": "Bangalore One · Srinivasnagar",
+      "address": "No.15, 80 Feet Road, Vidyapeeta Circle, BSK 1st Stage, Srinivasnagar, Bangalore - 560050",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Srinivasnagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560050",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8121dd0dca30fca12dc4",
+      "name": "Bangalore One · BangaloreOne on Wheels",
+      "address": "Specified locations",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "BangaloreOne on Wheels",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8121dd0dca30fca12dc4",
+      "name": "Bangalore One · BangaloreOne on Wheels",
+      "address": "Specified locations",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "BangaloreOne on Wheels",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-51cb50f52e170cbe0645",
+      "name": "Bangalore One · Mathikere mini",
+      "address": "BBMP Office, Ward no.36, Netaji Circle, Mathikere, Bangalore - 560054",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Mathikere mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560054",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2eaacf485db210ff6a32",
+      "name": "Bangalore One · Mallasandra",
+      "address": "Ward No:13, Mallsandra ,next to Government Hospital , Pipeline road Bangalore-57 .",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Mallasandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e34f8205ce04cc37ee9e",
+      "name": "Bangalore One · Jeevanahalli",
+      "address": "No.59, New Main Road, Next to Veterinary Hospital, Jeevanahalli Bus Stop, Jeevanahalli, Bangalore-560043.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jeevanahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560043",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-14f897039bcaca6a9c33",
+      "name": "Bangalore One · Lakkasandra",
+      "address": "BBMP Library Building 16th main Next to Ganesh temple Bangalore560030",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Lakkasandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560030",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f8d0978388d2876e6cdb",
+      "name": "Bangalore One · GKW Layout",
+      "address": "Ward no.126, 6th cross GKW Layout, Vijayanagar, and Bangalore.560040.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "GKW Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560040",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-86b6a1e4957c7664f386",
+      "name": "Bangalore One · Devasandra",
+      "address": "Old BBMP Office, Next to DK Mohan Babu house,Sidhappa Reddy layout , Devasandra,Banglaore-560036",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Devasandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560036",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-221e015a6927a63ae0dd",
+      "name": "Bangalore One · NR Colony Mini",
+      "address": "No 41, Subbaram chetty road, Land mark – Next to Public library.OPP- NR Colony Bus stop, Thyagaraj Nagar, Bangalore – 560004",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "NR Colony Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560004",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4da5fabd4529d6c8f922",
+      "name": "Bangalore One · RBI Layout",
+      "address": "BBMP Building, Ward no.195, Kothanur, JP Nagar, 7th Phase, RBI Layout, Bangalore-560078",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "RBI Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560078",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-cf495487dd53c40a5bbc",
+      "name": "Bangalore One · Nagpur",
+      "address": "MLA office, Ward No. 67, 12th Main Road, 11th cross, Universal School Behind ) Nagpur, Bangalore -560086.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Nagpur",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560086",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4def6186370be3257e51",
+      "name": "Bangalore One · Chandragiri",
+      "address": "Palike Soudha, Siddganga Road, Jyothinagar, Chandralayout, Banglaore-560072",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Chandragiri",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560072",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c4eeab538a0ee89db10f",
+      "name": "Bangalore One · KR Puram Mini",
+      "address": "Next to BBMP Office, Old Madras Road, K R Puram, Bangalore-560036",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "KR Puram Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560036",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-54fb410b8f7602943eed",
+      "name": "Bangalore One · Varthur Mini",
+      "address": "Anganwadi Kendra, Opp. to Govt High School, Gunjur-Varthur Main Road, Varthur, Bangalore-560087",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Varthur Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560087",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-57e2755a2bdf3815e86a",
+      "name": "Bangalore One · AECS Layout (Kundalahalli)",
+      "address": "BBMP Building Ward No:86, Opp. to State Bank of India, AECS Layout, Kundalahalli, Bangalore-560037",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "AECS Layout (Kundalahalli)",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560037",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-85cd24754d13fc4d1b28",
+      "name": "Bangalore One · Sanjaynagar Mini",
+      "address": "1st Cross Postal Colony,Ward number 19,Opp. to Radhakrishna Temple, Behind BWSSB Office, Sanjaynagar, Bangalore-560094",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Sanjaynagar Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560094",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b533f528fdc3c40058bf",
+      "name": "Bangalore One · Ulsoor Mini",
+      "address": "Ward No:90, BBMP Building, MEG Gate, Opp. to Ulsoor Lake, Kallahalli, Ulsoor, Bangalore-560008",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Ulsoor Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560008",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4a4bd41ab5c1462fc79f",
+      "name": "Bangalore One · Nagarbhavi",
+      "address": "BDA Shopping Complex Nagarbhavi, Bangalore-560072",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Nagarbhavi",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560072",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c5730d4070b9bc0e2ebc",
+      "name": "Bangalore One · V. V. Puram",
+      "address": "BBMP Office ward No 145, Opposite New Modern Hotel,Minerva circle, V.V. Puram, Bangalore-560004",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "V. V. Puram",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560004",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a6f3499cc9e0b376c49e",
+      "name": "Bangalore One · Sadduguntepalya",
+      "address": "BBMP Building, Opp. Ganesh Temple, 6th Cross, Church Road, Sadduguntepalya, Bangalore-560029",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Sadduguntepalya",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560029",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-99cb90f02a0139eaa753",
+      "name": "Bangalore One · Malleshwaram, Dattathreya Temple (Link Road)",
+      "address": "Anjaneya Block, Ward No.77, Seshadripuram. Bangalore-560020",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Malleshwaram, Dattathreya Temple (Link Road)",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560020",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-abeee1052d7e24d56f8a",
+      "name": "Bangalore One · Kammanahalli",
+      "address": "Next to Anganwadi Kendra and KHB Quarters, Tank Bund Road, Kanakadasa Layout, Lingarajapura, Bangalore-560084",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kammanahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560084",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-da599b4c46af54dc03c8",
+      "name": "Bangalore One · Chokkasandra",
+      "address": "BBMP Office, Ward no.39, 1st Floor, Chokkasandra Main Road, T. Dasarahalli, Bangalore - 560057",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Chokkasandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560057",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e6b57135dc169d082aad",
+      "name": "Bangalore One · Uttarahalli Mini",
+      "address": "Subramanyapura Main Road, Opposite to St. Anthony Church and near water tank, Uttrahalli Last bus stop, Uttrahalli, Bangalore-560061",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Uttarahalli Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560061",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-af143c9781b7badae3cd",
+      "name": "Bangalore One · Vasanthnagar Mini",
+      "address": "No.1, 7th Cross, Corporation Market, Vasanthnagar, Bangalore - 560052.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vasanthnagar Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560052",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c06b56c5244504843bfa",
+      "name": "Bangalore One · Kasturinagar",
+      "address": "BBMP Building, 2nd Main Road, Opposite to Car care, Next to Kasturinagar Bus Stop, Kasturinagar, Bangalore-560043",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kasturinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560043",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e3d968e6173a9b11a4a4",
+      "name": "Bangalore One · A Narayanapura Mini",
+      "address": "BBMP Ward No.56, Next to BBMP Health Office, Opposite to BBMP park, A.Narayanapura, Bangalore-560016.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "A Narayanapura Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560016",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9a342ee7efd38dc33310",
+      "name": "Bangalore One · Konanakunte Mini",
+      "address": "Department of Health Staff Quarters, 3rd Cross, Anjanadri Layout, Anjanapura, Konanakunte, Bangalore - 560062.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Konanakunte Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560062",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-09c2e2b8923e26315696",
+      "name": "Bangalore One · Horamavu Mini",
+      "address": "BBMP Ward Office, 1st Block, Near Babusapalya, Outer Ring Road, Horamavu, Bangalore - 560043",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Horamavu Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560043",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6d709eb862afd0069def",
+      "name": "Bangalore One · Doddabommasandra Mini",
+      "address": "No.26, 1st Block, BBMP Building, Ward No.9, Doddabommasandra, Vidyaranyapura Main Road, Bangalore - 560097.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Doddabommasandra Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560097",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f751609c482d5f8c4050",
+      "name": "Bangalore One · Chickpet",
+      "address": "Ward no 109 , BBMP Office , 1st Floor , Opposite to UG Deluxe , Near to Upparpet Police Station , Chickpet, Bangalore-560053.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Chickpet",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560053",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4c6731d13e26dc77ebcb",
+      "name": "Bangalore One · Horamavu 2",
+      "address": "BBMP Ward office, 1st Main Road, 2nd Cross, Next to Govt School, Dasappa Layout, Muneshwaranagar,T C Palya Main Road, Rammurthynagar,Bangalore-560016",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Horamavu 2",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560016",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5fb689838448c6058afe",
+      "name": "Bangalore One · Bytarayanapura Mini",
+      "address": "BBMP Office, Ward No.7, Opposite to Cauvery School, Sahakaranagar, Bangalore - 560092.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Bytarayanapura Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560092",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8e0babee11a8bb29786d",
+      "name": "Bangalore One · HMT Mini",
+      "address": "HMT Ward, Ward No 38,Ashwathu Katte Road,2nd Block,Peenya 1st stage,Bangalore-560058.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "HMT Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560058",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e7f01ab416ef1a799d9f",
+      "name": "Bangalore One · Herohalli",
+      "address": "BBMP ward office,Bharath nagar,BEL 1st phase,Herohalli,Bangalore 560091",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Herohalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560091",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e85f07af16cbf89e3cd8",
+      "name": "Bangalore One · Rayapuram Mini",
+      "address": "Corporator ward office,2nd main road,Opp to St.Anthony school,Near Ambedkar Bhavan,VS Garden,Rayapuram,Bangalore 560018.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Rayapuram Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560018",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5e9bc1e4754df20ecad9",
+      "name": "Bangalore One · Jnana Bharathi",
+      "address": "Jnana Bharathi, Nagarbhavi 2nd stage, 1st cross, 13th Block, Near Swathi hotel, Bangalore-560072",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jnana Bharathi",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560072",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6e6a100008ec215ee90f",
+      "name": "Bangalore One · Jalahalli Mini",
+      "address": "BWSSB Building, Ward no 16, Government school Road, Bahubalinagar, Jalahalli Village, Bangalore-560013",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jalahalli Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560013",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-78f80770732dd76e3c03",
+      "name": "Bangalore One · Hegganahalli",
+      "address": "Chikkathimme Gowda Complex, Gajanana Nagar, Hegganahalli cross, Mohan Theatre Road,Vishwaneedam post,Bangalore-560091.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Hegganahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560091",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-0658e4068885d9e6811c",
+      "name": "Bangalore One · Lakshmidevinagar",
+      "address": "Near Kuvempu circle, Next to BBMP Building, Lorry stand, Goraguntepalya, Bangalore-560022.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Lakshmidevinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560022",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4598a6c89514b2ab3317",
+      "name": "Bangalore One · Nagadevanahalli",
+      "address": "No 38, 4th Cross, Nagadevanahalli, Near Bus Stop, Bangalore-560056.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Nagadevanahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560056",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-3c5a0dee01a9a038bd4c",
+      "name": "Bangalore One · Bapujinagar",
+      "address": "BBMP office, MD Naidu Ranga Mandira, Next to Corporator Office, 2nd Main road, 5th Cross, Near Ayappa Swami Temple, Bapujinagar, Bangalore-560026.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Bapujinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560026",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d9608115b34faeb6c770",
+      "name": "Bangalore One · Domlur Layout",
+      "address": "BBMP Building, Ground Floor, 1st B Cross, Service road, Near post office, Domlur Layout, Bangalore-560071.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Domlur Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560071",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-471a0ea00da3c19e3f88",
+      "name": "Bangalore One · Bommanahalli Mini",
+      "address": "Shop No 116, Old CMC Building, Begur Main Road, Near Ganesh temple, Bommanahalli -560068.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Bommanahalli Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560068",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a7d5654947ebed591b15",
+      "name": "Bangalore One · Subramanyanagar",
+      "address": "1st floor, Building No.2, Next to BBMP office,Near Balaji Convention Hall, Subramanyanagar, Bangalore – 560021",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Subramanyanagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560021",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d5ebe2f1aa573454f215",
+      "name": "Bangalore One · Gaalianjaneya",
+      "address": "BBMP health center, Muneshwara Block, Opposite to Patel gundapa college, Bangalore-560026",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Gaalianjaneya",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560026",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a0db95ea9773563bd860",
+      "name": "Bangalore One · New Thippasandra",
+      "address": "BBMP ward office, Near Water Tank, Jeevan Bheema Nagar Main Road, HAL 3rd Stage, Puttappa layout, New Thippasandra, Bangalore -560075",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "New Thippasandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560075",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9cf42429aa5ccb164e9b",
+      "name": "Bangalore One · Shettyhalli Mini",
+      "address": "Ward No.13, BBMP Sub Division Building, Shettihalli, Opp. Prince Apartment, S.M. Road, Bangalore – 560057.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Shettyhalli Mini",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560057",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b2d050082e59fc40795c",
+      "name": "Bangalore One · Vijayanagar Pipeline",
+      "address": "Ward No.123, BBMP Anganawadi Building,Ground floor, Pipeline road, Near to Jinke park, Vijayanagar, Bangalore-40",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vijayanagar Pipeline",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9a982889af35e21614e2",
+      "name": "Bangalore One · Hampinagar",
+      "address": "Ward No133, 9th Main Road, 4th Cross Rd.,Near RPC LayoutBus Stop, Hampinagar, Bangalore-560010",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Hampinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560010",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-79ed47bf823a3d019788",
+      "name": "Bangalore One · Isro Layout",
+      "address": "ISRO Layout Bus Stand, Bikasi Pura, 3rd Main Road, 2nd stage, Near Kumaraswamy Layout, Bangalore: 560111",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Isro Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560111",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e716870e8e72eaaa9be4",
+      "name": "Bangalore One · Yelahanka 5th Phase",
+      "address": "Ward No 3 , Yelahanka 5th Phase, BMTC Bus Stop Building, Yelahanka, Bangalore-560065",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Yelahanka 5th Phase",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560065",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-ce3d2222a047ce8d522d",
+      "name": "Bangalore One · Mudalapalya",
+      "address": "Ward No.127, BBMP Ward Office, Next to Sai Baba Temple, Nagarbhavi Main Road, Bangalore- 560072.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Mudalapalya",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560072",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6f5931fbf52acc4e343f",
+      "name": "Bangalore One · Kacharkanhalli",
+      "address": "BBMP Corporator Old Office Building, Ward no:29, 2nd Main Road, Papaiah Layout, Kacharkanahalli, St. Thomas Town Post, Bangalore-560084",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Kacharkanhalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560084",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9cb4d41c0f463ef7d2da",
+      "name": "Bangalore One · JP Park, Mathikere",
+      "address": "BBMP Building, Ward 17, 80ft road, Choudeshwari Bus stop,JP Park, Mathikere, Bangalore 560054",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "JP Park, Mathikere",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560054",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-fdc625bbc99a097adb5d",
+      "name": "Bangalore One · Balaji Layout",
+      "address": "Ward no.198, BBMP Hut, 6th Main Road, Byrappa Road, Balaji Layout, Bangalore - 560062.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Balaji Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560062",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-cb7761d11d14d916884a",
+      "name": "Bangalore One · Jayanagar 7th Block (Karisandra)",
+      "address": "BBMP Hut, 1st Main Road, 7th Block, Jayanagar, Bangalore - 560070.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Jayanagar 7th Block (Karisandra)",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560070",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-26b80f5cba57bc380155",
+      "name": "Bangalore One · BHEL Layout (Hemmigepura)",
+      "address": "Ward no.198, BBMP Hut, 1st Cross, B.H.E.L Remco Layout, Bangalore - 560098.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "BHEL Layout (Hemmigepura)",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560098",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-68b6a1afb0308e896fbc",
+      "name": "Bangalore One · Devarachikkanahalli",
+      "address": "Ward no.175, Opposite RTO Office, BTM Layout, 4th Stage, 2nd Block, Devarachikkanahalli, Bangalore - 560076.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Devarachikkanahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560076",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1ae1a8c5aa1c9bcdf933",
+      "name": "Bangalore One · New BTM Layout",
+      "address": "Ward no.176, BBMP Building, 1st Main Road, 12th Cross, Near EPP Hospital, Bangalore-560076.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "New BTM Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560076",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e91475bb9109f35a7fe6",
+      "name": "Bangalore One · H.B.R.Layout",
+      "address": "BDA Shopping Complex H.B.R.Layout,Bangalore-560084",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "H.B.R.Layout",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560084",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4d1c9ef36260b3d765fa",
+      "name": "Bangalore One · Radhakrishna Ward",
+      "address": "BBMP Help center, Bulle Ward Park, Ward No.18, Radhakrishna Ward, 3rd Main, RMV 2nd Stage, Bangalore-560094",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Radhakrishna Ward",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560094",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a6a14b73a276d333b16c",
+      "name": "Bangalore One · Sampangi Ram Nagar",
+      "address": "BBMP Ward no.110, BBMP ward office, Rajaram Mohan Roy, Next to Pallavi Talkies, Bangalore - 560027.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Sampangi Ram Nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560027",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2997929047f3c7c2678c",
+      "name": "Bangalore One · Okalipuram",
+      "address": "Ward No. 95, BBMP Building, 5th main, opp. BBMP school,Swathanthrapalya, Okalipuram, Bangalore – 560021",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Okalipuram",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560021",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d3b3e66f45f81b722c92",
+      "name": "Bangalore One · Azad nagar",
+      "address": "Ward No.141, BBMP Building, Next to Government School, Opposite to Gopalan Mall, Mysore road, Azad Nagar, Bangalore 560026",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Azad nagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560026",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4e36295544da83271796",
+      "name": "Bangalore One · Vijinapura",
+      "address": "Ward No.51, Vijinapura Main Road, Near Bharath Gas Godown, Vijinapura, Bangalore- 560016",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vijinapura",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560016",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-bbe6977cf8e00bf30954",
+      "name": "Bangalore One · Hombegowdanagara",
+      "address": "Ward no.145, BBMP hut, 8th Main road, Vinayaka nagar, Wilson Garden, Bangalore - 560027",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Hombegowdanagara",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560027",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-640d285ca39c68bb1a5b",
+      "name": "Bangalore One · Singasandra",
+      "address": "BBMP Building, 1st cross, Vinayaka nagar, Opp to corporation bank, Kudlu village, Bangalore 560068",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Singasandra",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560068",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b3d6e148bd7f949ef63d",
+      "name": "Bangalore One · Shivajinagar",
+      "address": "BBMP building, Cock burn road, Near Shivajinagar police station, Broadway, Bangalore-560053",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Shivajinagar",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560053",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6259b97641bc406a0c2e",
+      "name": "Bangalore One · Agrahara Dasarahalli",
+      "address": "BBMP ward office, Ward No. 105 4th C Cross, 17th Main, Agrahara Dasarahalli, Bangalore 560079",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Agrahara Dasarahalli",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560079",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-072e8c7e6ad0305e8e9c",
+      "name": "Bangalore One · Vidyapeeta",
+      "address": "Office of Executive Engineer, BBMP Building, Chanamakere Achukatu, Vidyapeeta, Banashankari 3rd Stage, Vidyapeetha Ward, Bangalore 560085",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Vidyapeeta",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560085",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-ec99fb68a03c84dfef11",
+      "name": "Bangalore One · Chamarajpet",
+      "address": "Ward No.140, BBMP Building, 5th Main Road, Chamrajpet, Bengaluru-560018, Landmark:Behind The Venlakh Hospital",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Bangalore One",
+      "aliases": [
+        "Chamarajpet",
+        "Bangalore",
+        "Bengaluru Urban"
+      ],
+      "city": "Bengaluru",
+      "district": "Bengaluru",
+      "phone": null,
+      "operator": null,
+      "pin": "560018",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    }
+  ],
+  "Kone,null,null": [
+    {
+      "id": "directory-4cbd477c492240546b30",
+      "name": "Karnataka One · Navanagar",
+      "address": "Karnataka One Center .Samudhaya Bhavan, 1st Main, Sector-18, Near Corporation Office, Navanagar, Bagalkot – 587103",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Navanagar"
+      ],
+      "city": "",
+      "district": "Bagalkot",
+      "phone": "08354 297256",
+      "operator": null,
+      "pin": "587103",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-44b85699fe6d63c0bcd1",
+      "name": "Karnataka One · Ashok Nagar",
+      "address": "Karnataka One Center Community Devolopment society,Samuday Seva Kendra,Next to ESI hospital.590016",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Ashok Nagar"
+      ],
+      "city": "",
+      "district": "Belgaum",
+      "phone": "0831-2951006",
+      "operator": null,
+      "pin": "590016",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-96f52babda3f0bf6036d",
+      "name": "Karnataka One · Old Corporation Building",
+      "address": "Karnataka One Center Old Corporation Building,Risaldar Galli,Belgaum - 590002",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Old Corporation Building"
+      ],
+      "city": "",
+      "district": "Belgaum",
+      "phone": "0831-2424566",
+      "operator": null,
+      "pin": "590002",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-44a81a9062a0b2473b9a",
+      "name": "Karnataka One · BUDA Complex, TV Centre",
+      "address": "Karnataka One Center BUDA Complex,TV Center,Belgaum.590001",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "BUDA Complex, TV Centre"
+      ],
+      "city": "",
+      "district": "Belgaum",
+      "phone": "0831-2951007",
+      "operator": null,
+      "pin": "590001",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5ad92ffff3eb12334d26",
+      "name": "Karnataka One · Govaves Complex",
+      "address": "Karnataka One Center City Corporation Complex,Govaves,Belgaum - 590011",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Govaves Complex"
+      ],
+      "city": "",
+      "district": "Belgaum",
+      "phone": "0831-2401556",
+      "operator": null,
+      "pin": "590011",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6d51c303675d7d1a9185",
+      "name": "Karnataka One · Big Bazaar",
+      "address": "Karnataka One Center No.775, Khanapur Road,Near Tilakwadi,Tilakwadi Belgaum,Belgaum - 590006",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Big Bazaar"
+      ],
+      "city": "",
+      "district": "Belgaum",
+      "phone": null,
+      "operator": null,
+      "pin": "590006",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-614342be84106d3473e0",
+      "name": "Karnataka One · Bal Bhavan",
+      "address": "Karnataka One Center Bala bhavana BUDA complex,Bellary-583101.Ph.No:08392-275901.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Bal Bhavan"
+      ],
+      "city": "",
+      "district": "Bellary",
+      "phone": null,
+      "operator": null,
+      "pin": "583101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-655203d6326844e34f20",
+      "name": "Karnataka One · Bellary City Corporation",
+      "address": "Karnataka One Center New city coparation building,Opp royal circle Bellary-583101.Ph.No:08392-275902.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Bellary City Corporation"
+      ],
+      "city": "",
+      "district": "Bellary",
+      "phone": null,
+      "operator": null,
+      "pin": "583101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-05ff96a7d98aba85d962",
+      "name": "Karnataka One · Buda Office",
+      "address": "Karnataka One Center Buda Office Building , Naubad, Udgir Road,Bidar -585401",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Buda Office"
+      ],
+      "city": "",
+      "district": "Bidar",
+      "phone": "08482232188",
+      "operator": null,
+      "pin": "585401",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-180249e00f8c13af17f9",
+      "name": "Karnataka One · CMC Complex Kelagote",
+      "address": "KARNATAKA ONE CENTRE,CMC Complex , Kelagote,Chitradurga - 577501",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "CMC Complex Kelagote"
+      ],
+      "city": "",
+      "district": "Chitradurga",
+      "phone": "08194222299",
+      "operator": null,
+      "pin": "577501",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6c4f19c72a1cf3a0bc2c",
+      "name": "Karnataka One · Dandeli",
+      "address": "Karnataka One Center CMC Building, J N Road,Dandeli City -581325Contact: Shashi – 08284230254",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Dandeli"
+      ],
+      "city": "",
+      "district": "Dandeli",
+      "phone": null,
+      "operator": null,
+      "pin": "581325",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e3c497a16a406fb27f94",
+      "name": "Karnataka One · Kuvempunagar",
+      "address": "Karnataka One Center KSFC Building,# 1179/1,S Nijalingappa Layout, Near Ring Road, Davanagere-577004",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Kuvempunagar"
+      ],
+      "city": "",
+      "district": "Davanagere",
+      "phone": "08192-296175",
+      "operator": null,
+      "pin": "577004",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-3ffb3218d952a142b4ef",
+      "name": "Karnataka One · Revenue Inspector Quarters",
+      "address": "Karnataka One Center Revenue inspector building,Hadadi road, Davanagere-577005",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Revenue Inspector Quarters"
+      ],
+      "city": "",
+      "district": "Davanagere",
+      "phone": "08192-297176",
+      "operator": null,
+      "pin": "577005",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e69b9ca1c105976061db",
+      "name": "Karnataka One · Super Market",
+      "address": "Karnataka One Center Super market,MCC building, Church Road,Davangere - 577004",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Super Market"
+      ],
+      "city": "",
+      "district": "Davanagere",
+      "phone": "08192-223431",
+      "operator": null,
+      "pin": "577004",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a1cf57530e5778064d2a",
+      "name": "Karnataka One · Mulgund Naka",
+      "address": "Karnataka One Center ,Office of the Assistant Commissioner BuildingMulgund Naka Gadag -582103",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Mulgund Naka"
+      ],
+      "city": "",
+      "district": "Gadag",
+      "phone": "08372-297392",
+      "operator": null,
+      "pin": "582103",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-0cc68e850eb9c078c1af",
+      "name": "Karnataka One · Mini Vidhan Soudha (DC Office)",
+      "address": "Karnataka One Center No-7, Ground Floor,DC Office, Gulbarga-585102.Ph.No:08472-279333.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Mini Vidhan Soudha (DC Office)"
+      ],
+      "city": "",
+      "district": "Gulburga",
+      "phone": null,
+      "operator": null,
+      "pin": "585102",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-94a7e549db9c7f6928e7",
+      "name": "Karnataka One · KHB Complex",
+      "address": "Karnataka One Center No12, 13,14,KHB Complex,Gulbarga-585105.Ph.No:08472-273960.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "KHB Complex"
+      ],
+      "city": "",
+      "district": "Gulburga",
+      "phone": null,
+      "operator": null,
+      "pin": "585105",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f8ee2374c09809d152ac",
+      "name": "Karnataka One · Super Market",
+      "address": "Karnataka One center ,Near New Corporation Building ,Public Garden Kalaburgi 585102",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Super Market"
+      ],
+      "city": "",
+      "district": "Gulburga",
+      "phone": null,
+      "operator": null,
+      "pin": "585102",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9b984a428d8b952e8c3a",
+      "name": "Karnataka One · Santhe Pete",
+      "address": "Hassan Karnataka One Center CMC BuildingBM Road, Santhe Pete Hassan -573201",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Santhe Pete"
+      ],
+      "city": "",
+      "district": "Hassan",
+      "phone": "08172266255",
+      "operator": null,
+      "pin": "573201",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4e74437f1b63f241204e",
+      "name": "Karnataka One · Municipal High SchoolRroad",
+      "address": "Karnatakaone Center,Beside Guru Bhavan, Municipal High School Road, Haveri-581110",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Municipal High SchoolRroad"
+      ],
+      "city": "",
+      "district": "Haveri",
+      "phone": "-08375 297228",
+      "operator": null,
+      "pin": "581110",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-599f6a25f50e0b5bbded",
+      "name": "Karnataka One · Glass House",
+      "address": "Karnataka One Center Indira Glass Compound,HDMC Zonal Off No 9 Building,Hubli-580030",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Glass House",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2362880",
+      "operator": null,
+      "pin": "580030",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-0f188f65df67a13fc527",
+      "name": "Karnataka One · Kala Bhavan",
+      "address": "Karnataka One Center 1st Floor,Near HDMC Zonal Off No 12,Hubli-Dharwad Road, Dharwad.580001",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Kala Bhavan",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2444098",
+      "operator": null,
+      "pin": "580001",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5eb6b50c92409eb235cf",
+      "name": "Karnataka One · Navanagar",
+      "address": "Karnataka One Center Near HDMC Zonal Off No 4,Ambedakar Bhavan Navanagar,Hubli.580025",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Navanagar",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2224333",
+      "operator": null,
+      "pin": "580025",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-06b8b1fcc69d06df995a",
+      "name": "Karnataka One · Keshwapur",
+      "address": "Karnataka One Center Near HDMC Zonal Off No 6,Old Badami Nagar Keshwapur ,Hubli-580023",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Keshwapur",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2280905",
+      "operator": null,
+      "pin": "580023",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-13711eadcd1ac0401864",
+      "name": "Karnataka One · Akshaya Park",
+      "address": "Karnataka One Center Akshay Park Appartment, Next to Vijaya Bank, Gokul Road, Hubli - 580030",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Akshaya Park",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2335001",
+      "operator": null,
+      "pin": "580030",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c771d73ea16587ed9109",
+      "name": "Karnataka One · Vijaynagar",
+      "address": "Karnataka One Center Behind Lion English Medium School, Vijayanagar, Hubli.580032",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Vijaynagar",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2253332",
+      "operator": null,
+      "pin": "580032",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9fc95d2a36a4fc7a5423",
+      "name": "Karnataka One · Siddeshwarnagar",
+      "address": "Karnataka One Center Next to Govt Metric students Hostel, Siddeshwar nagar, Hubli.580021",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Siddeshwarnagar",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2371080",
+      "operator": null,
+      "pin": "580021",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-af353c593ab299183175",
+      "name": "Karnataka One · Barakootri",
+      "address": "Karnataka One Center Kalyan Nagar Road, Dharwad.58001",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Barakootri",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2444099",
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-396a47d4f400070a544e",
+      "name": "Karnataka One · Anand Nagar",
+      "address": "Karnataka One Center Near Leprosy Hospital Anandnagar Hubli -580024",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Anand Nagar",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2207934",
+      "operator": null,
+      "pin": "580024",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-0c76ca6c325582337610",
+      "name": "Karnataka One · IT Park",
+      "address": "Karnataka One Center IT Park Building Behind RT Computers Besides Vagvillas Hubli - 580030",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "IT Park",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2970197",
+      "operator": null,
+      "pin": "580030",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9719323b08cf3200b5fa",
+      "name": "Karnataka One · Kotagiri Oni",
+      "address": "Karnataka One Center Kotagiri Oni, Behind fish market Old Hubli Hubli 580024",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Kotagiri Oni",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2202788",
+      "operator": null,
+      "pin": "580024",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-74eae94e9de424364a83",
+      "name": "Karnataka One · Sreeram Nagar",
+      "address": "Karnataka One Center ShreeramanagarWard No. 63, Behind Government HospitalHubli – 580024",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Sreeram Nagar",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": "0836-2204949",
+      "operator": null,
+      "pin": "580024",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-83572abec45bd0dea2d0",
+      "name": "Karnataka One · Veerapur Oni",
+      "address": "Karnataka One Center , Grama Lekhadikacheri Chavani Veerapur Oni Hubli – 580020 -Ph -0836-2955959",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Veerapur Oni",
+        "Dharwad",
+        "Hubli",
+        "Hubballi"
+      ],
+      "city": "",
+      "district": "Hubli-Dharwad",
+      "phone": null,
+      "operator": null,
+      "pin": "580020",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-053f74536d990b0eae54",
+      "name": "Karnataka One · Sonarwada",
+      "address": "Samudaya Bhavan, Government School Compound, Near Sharadha MandirNaryana Shet Road, Sonarwada,Karwar – 581306",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Sonarwada"
+      ],
+      "city": "",
+      "district": "Karwar",
+      "phone": "08382221188",
+      "operator": null,
+      "pin": "581306",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-364d508311088a4e5117",
+      "name": "Karnataka One · Kodibagh",
+      "address": "Karnataka One Center , Commercial Building Karwar -Kodibagh road, Near Karnataka Bank, Kodibagh. Karwar 581303. Ph:08382223343",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Kodibagh"
+      ],
+      "city": "",
+      "district": "Karwar",
+      "phone": null,
+      "operator": null,
+      "pin": "581303",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a9daaf2e7c5f27364704",
+      "name": "Karnataka One · Sunkeri",
+      "address": "Karnataka One Center - Sunkeri BranchSamudaya BhavanSunkeri Last Bus Stop Sunkeri, Karwar - 581305",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Sunkeri"
+      ],
+      "city": "",
+      "district": "Karwar",
+      "phone": "-08382227799",
+      "operator": null,
+      "pin": "581305",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2de6115a6a908d49114a",
+      "name": "Karnataka One · MINI Vidhan Soudha",
+      "address": "Karnataka One Center, Next to Mini Vidhana soudhaNear Old BustandKolar - 563101",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "MINI Vidhan Soudha"
+      ],
+      "city": "",
+      "district": "Kolar",
+      "phone": "-081-52223000",
+      "operator": null,
+      "pin": "563101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2b96f27f76020c8b14b2",
+      "name": "Karnataka One · DC Office Building",
+      "address": "Karnataka One Center, DC Office Building, Hospet Road, Koppal -583231. Ph:08539221004",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "DC Office Building"
+      ],
+      "city": "",
+      "district": "Koppal",
+      "phone": null,
+      "operator": null,
+      "pin": "583231",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-7fa24288081117ba0065",
+      "name": "Karnataka One · IDSMT Building Mahaveer Circle",
+      "address": "Karnataka One Center, 1st Floor, IDSMT Building , Mahaveer Circle,Mandya - 571401",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "IDSMT Building Mahaveer Circle"
+      ],
+      "city": "",
+      "district": "Mandya",
+      "phone": "08152223000",
+      "operator": null,
+      "pin": "571401",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5f7d9ae8099c43edb878",
+      "name": "Karnataka One · Lalbaug",
+      "address": "Karnataka One Center ,City Corporation Building,Ground Floor,MG RoadLalbaugh, Mangalore 575004.Ph.No: 0824-2459959.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Lalbaug"
+      ],
+      "city": "",
+      "district": "Mangalore",
+      "phone": null,
+      "operator": null,
+      "pin": "575004",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d64e168c69970d9a3485",
+      "name": "Karnataka One · Bavuta Gudda",
+      "address": "KSR Memorial Building, Opp Bavathagudda Bus Stop, Bauthagudda, Mangalore 575001.Ph.No: 0824-2420086.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Bavuta Gudda"
+      ],
+      "city": "",
+      "district": "Mangalore",
+      "phone": null,
+      "operator": null,
+      "pin": "575001",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8616268c020d130b114f",
+      "name": "Karnataka One · Surathkal",
+      "address": "Karnataka One Center ,MUDA Market Complex, Suratkal - 575014",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Surathkal"
+      ],
+      "city": "",
+      "district": "Mangalore",
+      "phone": "0824-2984599",
+      "operator": null,
+      "pin": "575014",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-96b597a1f879e7967929",
+      "name": "Karnataka One · Kadri",
+      "address": "Karnataka One Center ,Ground Floor, City Corporation Commercial Complex,Behind New MESCOM Building,Shivabagh, Kadari-575002",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Kadri"
+      ],
+      "city": "",
+      "district": "Mangalore",
+      "phone": "0824-2216008",
+      "operator": null,
+      "pin": "575002",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-954ad796e903c98c55a8",
+      "name": "Karnataka One · Siddartha Layout",
+      "address": "Karnataka One Center, Muda Gautham Shopping Complex ,Siddarthalayout, Mysore -570011.Ph.No:0821-2470046.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Siddartha Layout"
+      ],
+      "city": "",
+      "district": "Mysore",
+      "phone": null,
+      "operator": null,
+      "pin": "570011",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9ce83ba22ea4dd80b50d",
+      "name": "Karnataka One · Rama Krishna Nagar",
+      "address": "Karnataka One Center, Muda Shopping Complex Ramkrishnanagar I Block,Mysore -570022.Ph.No:0821-2460727.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Rama Krishna Nagar"
+      ],
+      "city": "",
+      "district": "Mysore",
+      "phone": null,
+      "operator": null,
+      "pin": "570022",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4f26102696f7c7dfe597",
+      "name": "Karnataka One · KrishanMurthy Puram (Jayanagar)",
+      "address": "Karnataka One Center, onal Office,opposite to City Corporation,Near Jayanagar Railway Gate,Jayanagar, Mysore -570014.Ph.No:0821-2330042.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "KrishanMurthy Puram (Jayanagar)"
+      ],
+      "city": "",
+      "district": "Mysore",
+      "phone": null,
+      "operator": null,
+      "pin": "570014",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-7bf1daff86bbe1a74e81",
+      "name": "Karnataka One · New Seshadri Iyer Road",
+      "address": "Karnataka One Center, ,Opposite of City Zonal Corporation No 6,New Sheshadri iyer Road,Near RMC Private Bus-stand , Mysore -570021.Ph.No:0821- 2421042.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "New Seshadri Iyer Road"
+      ],
+      "city": "",
+      "district": "Mysore",
+      "phone": null,
+      "operator": null,
+      "pin": "570021",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-028d46da8ca0c3ac52e2",
+      "name": "Karnataka One · Gokulam Muda",
+      "address": "Karnataka One Center, Commercial Complex,Gokulam 3 rd Stage, Mysore - 570002.Ph.No:0821- 2411490.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Gokulam Muda"
+      ],
+      "city": "",
+      "district": "Mysore",
+      "phone": null,
+      "operator": null,
+      "pin": "570002",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-817caa62f3031780eb65",
+      "name": "Karnataka One · Nazarbad",
+      "address": "Karnataka One Center, Shalivahana raod,(Inside Radio Park),Nazarbad,Mysore -570010.Ph.No:0821-2430103.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Nazarbad"
+      ],
+      "city": "",
+      "district": "Mysore",
+      "phone": null,
+      "operator": null,
+      "pin": "570010",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-41372a9d2429915bb9c4",
+      "name": "Karnataka One · Old Thasildhar office building",
+      "address": "Karnataka One centre Old Thasildhar Building, Thasildhar office, Opposite CMC Corporation office Raichur-584101",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Old Thasildhar office building"
+      ],
+      "city": "",
+      "district": "Raichur",
+      "phone": "08532-295317",
+      "operator": null,
+      "pin": "584101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5e7a60f007fd8f516dd9",
+      "name": "Karnataka One · Vijayanagar",
+      "address": "Karnataka One Center ,Samudaya Bhavan,Pampanagar, Shimoga-577205",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Vijayanagar"
+      ],
+      "city": "",
+      "district": "Shimoga",
+      "phone": "8182-256680",
+      "operator": null,
+      "pin": "577205",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e7d5f3f5d58525ab59e3",
+      "name": "Karnataka One · Suda Complex",
+      "address": "Karnataka One Center ,SUDA Complex,100 ft road,Shimoga-577204",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Suda Complex"
+      ],
+      "city": "",
+      "district": "Shimoga",
+      "phone": "8182298136",
+      "operator": null,
+      "pin": "577204",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d1c6c32586adc31e6034",
+      "name": "Karnataka One · Private Bus Stand",
+      "address": "Karnataka One Center ,New Private Bus Stand,1 floor,Shimoga-577201",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Private Bus Stand"
+      ],
+      "city": "",
+      "district": "Shimoga",
+      "phone": "8182298236",
+      "operator": null,
+      "pin": "577201",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-29f44572145e418f818a",
+      "name": "Karnataka One · CMC Town hall",
+      "address": "Karnataka One Center , Town hall, Tumkur - 572101",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "CMC Town hall"
+      ],
+      "city": "",
+      "district": "Tumkur",
+      "phone": "0816-2277221",
+      "operator": null,
+      "pin": "572101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-45ba99e124e377e977d3",
+      "name": "Karnataka One · S.S. Puram",
+      "address": "Karnataka One Center , Municipal Corporation Shopping Complex,S.S.Puram, Tumkur-572102",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "S.S. Puram"
+      ],
+      "city": "",
+      "district": "Tumkur",
+      "phone": "0816-2277223",
+      "operator": null,
+      "pin": "572102",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-01424709aa97e2bf6738",
+      "name": "Karnataka One · IDSMT (Sira Gate)",
+      "address": "Karnataka One Center , Municipal Corporation Shopping Complex,Sira Gate, Tumkur-572106",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "IDSMT (Sira Gate)"
+      ],
+      "city": "",
+      "district": "Tumkur",
+      "phone": "0816-2277220",
+      "operator": null,
+      "pin": "572106",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-0c0be441415a5524af20",
+      "name": "Karnataka One · Chikpete",
+      "address": "Karnataka One Center , Municipal Building, Chikpete main road, Near Narashima Store, Chikpete, Tumkur- 572101. Ph:0816-2277796",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Chikpete"
+      ],
+      "city": "",
+      "district": "Tumkur",
+      "phone": null,
+      "operator": null,
+      "pin": "572101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e73af77f6ea2e52e7307",
+      "name": "Karnataka One · Maruthi Nagar",
+      "address": "Karnataka One Center , Municipal Building, Beside Water Tank, Shettihalli Main road, Maruthi Nagar , Tumkur-572102. Ph:- 0816-2291359",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Maruthi Nagar"
+      ],
+      "city": "",
+      "district": "Tumkur",
+      "phone": null,
+      "operator": null,
+      "pin": "572102",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1399d36f0fa8b1f0b0cf",
+      "name": "Karnataka One · Kyathasandra",
+      "address": "Karnataka One Center , Municipal Corporation building,Near Kyathandra Circle, Next to Govt. Hospital, Kyathsandra, Tumkur-572104",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Kyathasandra"
+      ],
+      "city": "",
+      "district": "Tumkur",
+      "phone": "0816-2281334",
+      "operator": null,
+      "pin": "572104",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-bc7be8645b332d6755d9",
+      "name": "Karnataka One · Diana Theatre",
+      "address": "Karnataka One Center, CMCBuilding, Opposite Diana Theatre, Udupi - 576101",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Diana Theatre"
+      ],
+      "city": "",
+      "district": "Udupi",
+      "phone": "-08202529900",
+      "operator": null,
+      "pin": "576101",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8ef16724a0402780bca1",
+      "name": "Karnataka One · Jalnagar",
+      "address": "Karnataka One Center Vijayapura city municipal corporation building, Jalnagar, Bagalkote road Vijayapura -586109",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Jalnagar"
+      ],
+      "city": "",
+      "district": "Vijayapura",
+      "phone": "08352277682",
+      "operator": null,
+      "pin": "586109",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-eee41391f1b04dee220a",
+      "name": "Karnataka One · Thasildhar office building",
+      "address": "Karnataka One center, Thasildhar office building campus,Opposite GESCOM KEB ,Court Road-Yadgir 585202",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Karnataka One",
+      "aliases": [
+        "Thasildhar office building"
+      ],
+      "city": "",
+      "district": "Yadgiri",
+      "phone": "08473250400",
+      "operator": null,
+      "pin": "585202",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    }
+  ],
+  "Gramaone,Kodagu,Madikeri": [
+    {
+      "id": "directory-3ce429d95ca150ea6f4f",
+      "name": "Grama One · sangeetha ps",
+      "address": "nelaji village,nelaji post, Napoklu-571214",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "sangeetha ps"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571214",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-00e3233db416f7ea672d",
+      "name": "Grama One · JITHIN M RMEKERI",
+      "address": "MEKERI VILLAGE, KAGGODLU POST, MADIKERI",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "JITHIN M RMEKERI"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-15693aac589b51ff579d",
+      "name": "Grama One · Ramaprasad R",
+      "address": "Adithya, 20/36,Brahmin Valley, Madikeri",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Ramaprasad R"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-649f15c61d5436c505c6",
+      "name": "Grama One · MITHUN K B",
+      "address": "#198, KOYANADU POST SAMPAJE VILLAGE MADIKERI TALUK KODAGU 571201",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "MITHUN K B"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571201",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2dcaf13a7357e9f43469",
+      "name": "Grama One · Chethan P D",
+      "address": "Sinagthuru chettimadi postmadikeri kodagu",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Chethan P D"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b027fdacc8dee13b7230",
+      "name": "Grama One · RANJITH K U",
+      "address": "#146 SANNAPULLIKOTU VILLAGE",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "RANJITH K U"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a8e81b2568a638a262ff",
+      "name": "Grama One · SACHIN KL",
+      "address": "#212, KOTTUR POST CHERAMBANE POST MADIKERI",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SACHIN KL"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2d1752c8f39a2c49b0c4",
+      "name": "Grama One · Abbas B H",
+      "address": "Aiyangeri Village Sannapulikote Post",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Abbas B H"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6c30529f85f85c4fd4f3",
+      "name": "Grama One · Hamsa M E",
+      "address": "Kolakeri Village and Post,Madikeri Taluk,Kodagu",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Hamsa M E"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-edcde187ac88cc1c3d5e",
+      "name": "Grama One · KAVITHA G S",
+      "address": "MADE VILLAGE AND POST,MADIKERI TALLUK,KODAGU DIST-571201",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "KAVITHA G S"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571201",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1454ce075f521c94abc9",
+      "name": "Grama One · SHYJI P E",
+      "address": "239,BAVLLI VILLAGR MADIKERI",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SHYJI P E"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-eb5af68e76007898f2e1",
+      "name": "Grama One · NITHIN KM",
+      "address": "#288 U CHEMBU VILLAGE MADIKERI KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NITHIN KM"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-756ac73dce0dcf79ce1a",
+      "name": "Grama One · SACHIN M V",
+      "address": "MAKKANDUR POST AND VILLAGE, MADIKERI, 571201",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SACHIN M V"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571201",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b7f7caf45509259f42ea",
+      "name": "Grama One · ANANTHA KUMAR I",
+      "address": "Maragodu Village And Post Madikeri Kodagu 571252",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "ANANTHA KUMAR I"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571252",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a1d5cf5dc18be301ca06",
+      "name": "Grama One · Priyanka B K",
+      "address": "Via Kanturu Murnad, Hakathur village and Post, Madikeri 571252",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Priyanka B K"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571252",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-13959b77285560d09d34",
+      "name": "Grama One · KAVERIE CK",
+      "address": "BALLAMAVATHI VILLAGE MADIKERI",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "KAVERIE CK"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-39626daaac7fa84c29ea",
+      "name": "Grama One · ahmad shareef k m",
+      "address": "THAYATHBANE KOTTAMUDI HODAVADA VILLAGE PALOOR POST VIA NAPOKLU 571214",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "ahmad shareef k m"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571214",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4532e24a5facceddca0d",
+      "name": "Grama One · MANJUNATHA H N",
+      "address": "S/O NANAIAH H A, #12, KAGGODLU VILLAGE AND POST, MADIKERI TALUK, KODAGU - 571252",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "MANJUNATHA H N"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571252",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9f6a8c27c2f0bc2de031",
+      "name": "Grama One · Anitha Rosario",
+      "address": "Karanangeri Village, Makkandur Post, Madikeri",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Anitha Rosario"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1a270eb6df5aadded213",
+      "name": "Grama One · ZAINUDDIN M AN",
+      "address": "HODDUR VILLAGE AND POST MADIKERI TQ. KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "ZAINUDDIN M AN"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c43604c599a97b241108",
+      "name": "Grama One · BOPANNA P M",
+      "address": "KARADA VILLAGE AND POST MADIKERI TALUK",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "BOPANNA P M"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6dffbda418f9666290da",
+      "name": "Grama One · SALID K A",
+      "address": "#12 s/o AZEEZ KE HARDOOR VILLAGE AND POST SOMWARPET THALUK KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SALID K A"
+      ],
+      "city": "MADIKERI",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    }
+  ],
+  "Gramaone,Kodagu,Somvarpet": [
+    {
+      "id": "directory-9ae77c22ad79c0705d96",
+      "name": "Grama One · YOGESH KUMAR D R",
+      "address": "C/O GANESH DR NEAR POLICE GROUND 4TH BLOCK BYPASS ROAD RK -LAYOUT",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "YOGESH KUMAR D R"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1b2545d3717ef2a9a4e1",
+      "name": "Grama One · Santhosh L",
+      "address": "S/O Lingappa Aigoor Village And Post Somwarpet",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Santhosh L"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-400243c636fe0005daa4",
+      "name": "Grama One · rajashekar",
+      "address": "SHEMS CONVENT ROAD SHANIVARSANTHE",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "rajashekar"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-89d3f966f55580487b99",
+      "name": "Grama One · Theertha Kumar M R",
+      "address": "MALAMBI VILLAGE AND POST, SOMAWARPET TALUK, KODAGU DIST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Theertha Kumar M R"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-97e9d891c06a3390acb3",
+      "name": "Grama One · HOMESHA",
+      "address": "MANAGALI VILLAGE,HANDLI POST,KODLIPETE HOBALI,SOMWARPETE TALUK ,KODAGU 571235",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "HOMESHA"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571235",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-fe48c9530f46b8a2589a",
+      "name": "Grama One · Padmanabha",
+      "address": "Nellihudhikeri post and village",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Padmanabha"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-108de7879bdf3bf17684",
+      "name": "Grama One · RENUPRASAD B M",
+      "address": "Basavanathur village Kudumanglore post Kushalnagar Kodagu District 571232",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "RENUPRASAD B M"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571232",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-3e87534a6b7c24a3a3ac",
+      "name": "Grama One · MOIDEEN V P",
+      "address": "CHERALA SRIMANGALA VILLAGE, CHETTALLI POST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "MOIDEEN V P"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6b6cd9f50c34eedf9ce9",
+      "name": "Grama One · NOWSHEENA M U",
+      "address": "GOODUGADHE VILLAGE VIRAJEPET",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NOWSHEENA M U"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-aae0c485e0e0e1193dee",
+      "name": "Grama One · SHAIMA MM",
+      "address": "#48 basavana halli somwarpet",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SHAIMA MM"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-1369d5ab2ee95df97e95",
+      "name": "Grama One · RAMYA T V",
+      "address": "7TH HOSKOTE VILLAGE AND POST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "RAMYA T V"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-33554f877015739418de",
+      "name": "Grama One · KALAMANI R",
+      "address": "#23 SCHOOL BANE KODAGARAHALLI VILLAGE SOMWARPET TALUK",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "KALAMANI R"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-295a14866b67cb7140f2",
+      "name": "Grama One · TAFSEER B M",
+      "address": "No 04 BYADAGOTTA VILLAGE,KODLIPET PO, SOMWERPET TQ, KODAGU 571231",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "TAFSEER B M"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571231",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f8ffefdec541acf2679a",
+      "name": "Grama One · NUTHAN S R",
+      "address": "SHIRANGALA VILLAGE AND POST KUSHALNAGARA HOBLI SOMWARPETE TALUK KODAGU DIST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NUTHAN S R"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-db49f8c19185ca422567",
+      "name": "Grama One · Srikantha H B",
+      "address": "S/o Basavahcari M Near Bus Stand Hebbale Post and Village somwarpet Tq Kodagu Dist",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Srikantha H B"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-05b15b85aa27058a19df",
+      "name": "Grama One · Umesha D",
+      "address": "S/O DHARMENDRA K C KUDIGE V AND P SOMWARPETE TQ KODAGU DT",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Umesha D"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b8b218b7ce487cee379e",
+      "name": "Grama One · Licy Lobo",
+      "address": "Bettadhakadu, Nelliahudikeri village and post, Somwarpet taluk, Kodagu",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Licy Lobo"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d5b4d9a0e5ec7e7ac061",
+      "name": "Grama One · SHARAN H S",
+      "address": "Hirikara Village Gowdalli post Somwarpet taluk Kodagu district",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SHARAN H S"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-2a93d3ef2c0c668f230b",
+      "name": "Grama One · PRATHIBHA G P",
+      "address": "Veerabhadreshwara Nilaya, Basaweshwara Badavane Gumanakolli, Mullusoge, Kushalnagar",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "PRATHIBHA G P"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a62ba1256ec5a22d62bd",
+      "name": "Grama One · Sharath H S",
+      "address": "ALUR SIDDAPURA VILLGE AND POST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Sharath H S"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d2f31ad8da5766c6e920",
+      "name": "Grama One · HARIDAS K G",
+      "address": "AIGOOR VILLAGE AND POST SOMAWARPET TALUK KODAGU DIST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "HARIDAS K G"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d7885d81d3c24d97d9f7",
+      "name": "Grama One · Chandra S",
+      "address": "R-161 Kamadhenu Nilaya Rangers Block Somwarpet 571236",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Chandra S"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571236",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-6013600ccc30c7994e38",
+      "name": "Grama One · MANJUNATHA DM",
+      "address": "MADHURAMMA EXTENSION ULUGULLI SUNTIKOPPA",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "MANJUNATHA DM"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8a9f228efdff940be175",
+      "name": "Grama One · A T SHIVAKUMAR",
+      "address": "S/O THIMMAPPA NAIK A J, KUSBUR POST, BALAGUNDA VILLAGE, BAJEGUNDI HOUSE, SOMWARPET TQ KODAGU KARNATAKA - 571236",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "A T SHIVAKUMAR"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571236",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-772ffd200a93632d9641",
+      "name": "Grama One · NAVEEN P R",
+      "address": "S/O PERUBAI RAJKUMAR, PERUBAI HOUSE, GUNDURAO EXTENSION, KUSHALNAGAR, KODAGU 571234",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NAVEEN P R"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571234",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e592f0ebdc19a208213d",
+      "name": "Grama One · NANDEESHA H L",
+      "address": "HEMMANE, BESUR, KODLIPETE,SOMAWARAPETE, KODAGU-571231",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NANDEESHA H L"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571231",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-4ea703caa2fbcd965185",
+      "name": "Grama One · Mohammed Razvi M K",
+      "address": "#19/1, next to Grama Panchayat office, Near bus stand Kodlipet, Somwarpet taluk, Kodagu District.-571231",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Mohammed Razvi M K"
+      ],
+      "city": "SOMVARPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571231",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    }
+  ],
+  "Gramaone,Kodagu,Virajpet": [
+    {
+      "id": "directory-c3b246d1359df008ed4d",
+      "name": "Grama One · SUNIL H S",
+      "address": "CHENNAYYANAKOTE VILLAGE AND POST",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SUNIL H S"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-8e1fc41b16699945651b",
+      "name": "Grama One · B G KAVYA",
+      "address": "MEKUR HOSAKERI POLLIBETTA VIRAJPET KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "B G KAVYA"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f5d140b3647611c32fee",
+      "name": "Grama One · B N RAMACHANDRA",
+      "address": "NO 21 NEAR TEMPLE GOTTADA KALATHMADU VILLAGE AND POST VIRAJAPET TALUK KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "B N RAMACHANDRA"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-7fb8d89a6c2ce54da487",
+      "name": "Grama One · H R SHEELA",
+      "address": "W/o S M BASAPPA",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "H R SHEELA"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-066a9bafe3874b41e7f1",
+      "name": "Grama One · PRASHANTH KUMAE B B",
+      "address": "HYSODLUR VIRAJPET TALUK",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "PRASHANTH KUMAE B B"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-9b10ba137b8096b52128",
+      "name": "Grama One · P J VISHWANATH",
+      "address": "NISARGA LAYOUT, PANJARPET, VIRAJPET TOWN",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "P J VISHWANATH"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d3d7d47bc58853f4a39a",
+      "name": "Grama One · Shyni M S",
+      "address": "W/o Prajeesh E Kaikeri Village Gonikoppal 571213",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Shyni M S"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571213",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-98ee78b9e3e974cf52a2",
+      "name": "Grama One · PRATHIKA B P",
+      "address": "W/O VIJAYA H R, NALKERI VILLAGE AND POST, VIRAJPET TQ, SOUTH KODAGU 571217",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "PRATHIKA B P"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571217",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-d6ae19524dc5c0ece81c",
+      "name": "Grama One · K S Namritha",
+      "address": "West Nemmale Village And Post",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "K S Namritha"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-28f4782c329528410ea8",
+      "name": "Grama One · NOUFAL K A",
+      "address": "KOTE PAISARI, CHENNAYYANAKOTE VILLAGE AND POST VIRAJPET TALUK, KODAGU, KARNATAKA -5 71215",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NOUFAL K A"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-5d745eba8aa5ad6238be",
+      "name": "Grama One · Rejith Kumar K K",
+      "address": "Guhya Village, Siddapura, Virajpet taluk, Kodagu",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Rejith Kumar K K"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-fb2fc83584e7c96c455e",
+      "name": "Grama One · SUNIL KUMAR J C",
+      "address": "KUTTA VILLAGE AND POST , VIRAJPET TALUK , KODAGU 571250",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SUNIL KUMAR J C"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571250",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b5ac9549bd2c482db33b",
+      "name": "Grama One · Philomena C V",
+      "address": "Telugu Street, Siddapura Road, Virajpet, Kodagu- 571218",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Philomena C V"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571218",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b445b0418518b5af1cb8",
+      "name": "Grama One · AJESHA T V",
+      "address": "RUDRABEEDU KONANAKATTE POST DHANUGALA VILLAGE VIRAJPET KODAGU 571213",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "AJESHA T V"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571213",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-e47071e2230044981024",
+      "name": "Grama One · NISHA K J",
+      "address": "VIRAJPET RAOD SIDDAPURA VILLAGE AND POST KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NISHA K J"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-204c7f72a1d6d5eaa41d",
+      "name": "Grama One · RADHA U S",
+      "address": "CHAMUNDI PAISARI KANNANGALA VILLAGE AND POST VIRAJPET TALUK KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "RADHA U S"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b2785d71004bb47d990e",
+      "name": "Grama One · M A KUTTAPPA",
+      "address": "#19/1 M G NAGAR HALLIGATTU VILLAGE PONNAMPET KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "M A KUTTAPPA"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-a7532c724e605d22743b",
+      "name": "Grama One · SANTHOSH KUMAR K A",
+      "address": "NETHAJI LAYOUT GONIKOPPAL VIRAJPET KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SANTHOSH KUMAR K A"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-ca703042897f5a476355",
+      "name": "Grama One · NAJEEB B S",
+      "address": "BADAGA BANANGALA MALDARE VIRAJPET",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "NAJEEB B S"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-f912eeea1b5507a76488",
+      "name": "Grama One · Sanosh V J",
+      "address": "Tharikatte, Bhadragola Village and Post, Virajpet, Kodagu",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Sanosh V J"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-81680f3491fc5a8ef06a",
+      "name": "Grama One · RISHANA K M",
+      "address": "KATTEMADU VILLAGE AND POST KONDANGERI",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "RISHANA K M"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-c2a3adc713ab1e9133a9",
+      "name": "Grama One · M ABHISHEK MUTHAPPA",
+      "address": "S/O MADAPPA M M, POLIBETTA ROAD, KARMADU VILLAGE, AMMATHI TOWN AND POST, S. KODAGU- 571211.",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "M ABHISHEK MUTHAPPA"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571211",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-bf9bcfde2a6ee6eeabb6",
+      "name": "Grama One · Manoj V J",
+      "address": "Hebbale, Bhadragola",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "Manoj V J"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-3d472bc0fa175e86982e",
+      "name": "Grama One · MOHAMMAD SUFIAN K M",
+      "address": "BETOLI VILLAGE BETOLI POST VIRAJPET KODAGU KARNATAKA 571218",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "MOHAMMAD SUFIAN K M"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": "571218",
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-11a164f30b49fc5e4276",
+      "name": "Grama One · MOHAMMED SALIH",
+      "address": "ARAPATTU VILLAGE AND POST KADANGA",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "MOHAMMED SALIH"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    },
+    {
+      "id": "directory-b130731ca2fda10083f8",
+      "name": "Grama One · SABAD C M",
+      "address": "KADANGA MURUR ,VILLAGE AND POST , VIRAJPET TALUK , KODAGU",
+      "source": "https://sevasindhu.karnataka.gov.in/Sevasindhu/Servicecenters",
+      "centre_type": "Grama One",
+      "aliases": [
+        "SABAD C M"
+      ],
+      "city": "VIRAJPET",
+      "district": "Kodagu",
+      "phone": null,
+      "operator": null,
+      "pin": null,
+      "verified_on": "2026-11-21",
+      "coordinates": null
+    }
+  ]
+}
